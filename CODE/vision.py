@@ -21,30 +21,38 @@ def extraer_tablero(imagen_cv, coordenadas_yolo, tamano_final=450):
     # 1. Sacamos las coordenadas de la caja que detectó YOLO
     x1, y1, x2, y2 = map(int, coordenadas_yolo[0])
     
-    # Expandimos un pelín el recorte de YOLO para asegurarnos de no cortar el borde exterior
+    # ¡BUG SOLUCIONADO! Expandimos el recorte de YOLO generosamente (10% de margen)
+    # Si dábamos margen=5, la línea negra gorda del Sudoku tocaba el borde de la imagen,
+    # el contorno no se cerraba, no detectaba 4 esquinas, y caía en el FALLBACK de partición asimétrica.
+    ancho_caja = x2 - x1
+    alto_caja = y2 - y1
+    margen_x = int(ancho_caja * 0.1)
+    margen_y = int(alto_caja * 0.1)
+    
     alto_img, ancho_img = imagen_cv.shape[:2]
-    margen = 5
-    x1 = max(0, x1 - margen)
-    y1 = max(0, y1 - margen)
-    x2 = min(ancho_img, x2 + margen)
-    y2 = min(alto_img, y2 + margen)
+    x1 = max(0, x1 - margen_x)
+    y1 = max(0, y1 - margen_y)
+    x2 = min(ancho_img, x2 + margen_x)
+    y2 = min(alto_img, y2 + margen_y)
     
     recorte = imagen_cv[y1:y2, x1:x2]
     recorte_gris = cv2.cvtColor(recorte, cv2.COLOR_BGR2GRAY)
     
     # 2. Intentamos buscar el cuadrado exacto para hacer Corrección de Perspectiva
-    recorte_blur = cv2.GaussianBlur(recorte_gris, (5, 5), 0)
+    recorte_blur = cv2.GaussianBlur(recorte_gris, (7, 7), 0)
     thresh = cv2.adaptiveThreshold(recorte_blur, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, 11, 2)
     
-    contornos, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    # Usamos RETR_LIST para encontrar todos los contornos, no solo los externos (por si acaso el margen se tocó un poco con alguna sombra)
+    contornos, _ = cv2.findContours(thresh, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)
     if contornos:
         # Ordenamos los contornos por área, buscamos el más grande que parezca un cuadrado
-        contornos = sorted(contornos, key=cv2.contourArea, reverse=True)[:5]
+        contornos = sorted(contornos, key=cv2.contourArea, reverse=True)[:10]
         for c in contornos:
             perimetro = cv2.arcLength(c, True)
-            aproximacion = cv2.approxPolyDP(c, 0.02 * perimetro, True)
+            # Aumentamos la tolerancia a 0.04 para imágenes desenfocadas o distorsionadas
+            aproximacion = cv2.approxPolyDP(c, 0.04 * perimetro, True)
             
-            # Si el contorno tiene 4 vértices y es razonablemente grande
+            # Si el contorno tiene 4 vértices y ocupa gran parte de la foto (más del 20%)
             if len(aproximacion) == 4 and cv2.contourArea(c) > (recorte_gris.shape[0] * recorte_gris.shape[1]) * 0.2:
                 pts_origen = aproximacion.reshape(4, 2).astype(np.float32)
                 pts_origen = _ordenar_puntos(pts_origen)
@@ -56,11 +64,13 @@ def extraer_tablero(imagen_cv, coordenadas_yolo, tamano_final=450):
                     [0, tamano_final - 1]
                 ], dtype=np.float32)
                 
+                # PLANCHAR LA FOTO: Esto corrige la perspectiva de cámara y deja el Sudoku 100% plano y ortogonal
                 matriz = cv2.getPerspectiveTransform(pts_origen, pts_destino)
                 tablero_cuadrado = cv2.warpPerspective(recorte_gris, matriz, (tamano_final, tamano_final))
                 return tablero_cuadrado
     
-    # 3. FALLBACK: Si no encontramos el cuadrado, hacemos un resize normal
+    # 3. FALLBACK: Si falla horriblemente, tiramos del YOLO asumiendo que no tiene mucha perspectiva
+    print("WARNING: Falló el Warp Perspective. Usando YOLO fallback.")
     tablero_cuadrado = cv2.resize(recorte_gris, (tamano_final, tamano_final))
     return tablero_cuadrado
 

@@ -155,27 +155,25 @@ async def upload_image(file: UploadFile = File(...)):
                 # Usamos el recorte directamente del adaptiveThreshold original
                 # No re-binarizamos con OTSU porque dentro del bounding box estrecho
                 # el histograma no es bimodal y OTSU rellenaría los huecos de los 8s y 9s engordando la letra.
-                digito_bin = thresh[y:y+h, x:x+w]
-                
-                # Opcional para imágenes muy borrosas: si el contorno es muy grueso, un ligero thinning (erode)
-                # Pero en principio evitar OTSU ya resolverá el 90% del problema del "engordamiento".
+                # Opcional para imágenes muy borrosas: soldar pequeños huecos en el trazo y suavizar.
+                kernel = np.ones((2, 2), np.uint8)
+                digito_soldado = cv2.morphologyEx(thresh[y:y+h, x:x+w], cv2.MORPH_CLOSE, kernel)
                 
                 # MNIST tiene dígitos de ~20x20
                 lado_max = 20
                 if w > 0 and h > 0:
-                    if w > h:
-                        nuevo_w = lado_max
-                        nuevo_h = max(1, int(lado_max * (h / w)))
-                    else:
-                        nuevo_h = lado_max
-                        nuevo_w = max(1, int(lado_max * (w / h)))
-                        
-                    digito_resized = cv2.resize(digito_bin, (nuevo_w, nuevo_h), interpolation=cv2.INTER_AREA)
+                    ratio = min(lado_max / w, lado_max / h)
+                    nuevo_w = max(1, int(w * ratio))
+                    nuevo_h = max(1, int(h * ratio))
+                    digito_resized = cv2.resize(digito_soldado, (nuevo_w, nuevo_h), interpolation=cv2.INTER_AREA)
                     
-                    # Centramos en el lienzo negro de 28x28
-                    sy = (28 - nuevo_h) // 2
-                    sx = (28 - nuevo_w) // 2
-                    lienzo_final[sy:sy+nuevo_h, sx:sx+nuevo_w] = digito_resized
+                    fondo = np.zeros((28, 28), dtype=np.uint8)
+                    inicio_y = (28 - nuevo_h) // 2
+                    inicio_x = (28 - nuevo_w) // 2
+                    fondo[inicio_y:inicio_y+nuevo_h, inicio_x:inicio_x+nuevo_w] = digito_resized
+                    
+                    # Simular el Anti-Aliasing (bordes suaves) de MNIST/Fuentes con un ligero Blur final
+                    lienzo_final = cv2.GaussianBlur(fondo, (3, 3), 0)
                     tiene_digito = True
             
             # Guardar imagen para depuración
