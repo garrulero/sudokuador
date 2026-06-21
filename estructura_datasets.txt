@@ -1,0 +1,1505 @@
+Listado de rutas de carpetas
+El número de serie del volumen es 0000013A 8E72:CD06
+C:\BOOT\GARRULERO\SUDOKUADOR\MODELO_1\DATA\RAW
++---bridge
+¦   ¦   drive-download-20260620T185558Z-3-001.zip
+¦   ¦   
+¦   +---drive-download-20260620T185558Z-3-001
+¦       ¦   sudoku.csv
+¦       ¦   
+¦       +---images
+¦       ¦   +---test
+¦       ¦   ¦       sudoku_1008_jpg.rf.WAN6c48NXkKe69G07Ln0.jpg
+¦       ¦   ¦       sudoku_1011_jpg.rf.0XxUhc9bObrHzIOreBdg.jpg
+¦       ¦   ¦       sudoku_1022_jpg.rf.UcSmkobAHjE2tWUBsAce.jpg
+¦       ¦   ¦       sudoku_1045_jpg.rf.cLs5QuKaAfNVQZz7Zn1a.jpg
+¦       ¦   ¦       sudoku_1049_jpg.rf.UvMgx1o8MGhMtkBAJNmh.jpg
+¦       ¦   ¦       sudoku_1077_jpg.rf.Yg2xrD45CrM78StLyiPD.jpg
+¦       ¦   ¦       sudoku_1083_jpg.rf.BqLeEZ8NlIUsq6pnDMVN.jpg
+¦       ¦   ¦       sudoku_1086_jpg.rf.DuI53BClgEYjUXzb4M8j.jpg
+¦       ¦   ¦       sudoku_145_jpg.rf.6CLS4Ocyl3j3jk4iJp3Z.jpg
+¦       ¦   ¦       sudoku_157_jpg.rf.2NbjmQshEPWOSevJx1sU.jpg
+¦       ¦   ¦       sudoku_168_jpg.rf.pfhTWZY1G9sbBr6PPDKz.jpg
+¦       ¦   ¦       sudoku_171_jpg.rf.0WTTrhxxmpvRDL3RcWfi.jpg
+¦       ¦   ¦       sudoku_184_jpg.rf.WNIPdQOCcB0txyJD0IIp.jpg
+¦       ¦   ¦       sudoku_202_jpg.rf.tHoF6onsvBBgvNwbYnWw.jpg
+¦       ¦   ¦       sudoku_204_jpg.rf.RLmFJMdr7oZrdwbUt3Y7.jpg
+¦       ¦   ¦       sudoku_3265_jpg.rf.8Ej0j0WX0LKXfKDIi0DC.jpg
+¦       ¦   ¦       sudoku_3281_jpg.rf.ypNiTSlYMrK0TzVraOcf.jpg
+¦       ¦   ¦       sudoku_3293_jpg.rf.6BSQgFsUa2hf5AYMya1M.jpg
+¦       ¦   ¦       sudoku_3295_jpg.rf.FpFbVGMHTlUDCmSrYTCw.jpg
+¦       ¦   ¦       sudoku_3301_jpg.rf.I7Z0ch2E5zsRTYTL1xMT.jpg
+¦       ¦   ¦       sudoku_36_jpg.rf.0yLtDHmNMfuHapbZEKZ3.jpg
+¦       ¦   ¦       sudoku_41_jpg.rf.7nqM46ScDSSGcUOjKMgG.jpg
+¦       ¦   ¦       
+¦       ¦   +---train
+¦       ¦   ¦       sudoku_1003_jpg.rf.xqtpFVdMkddO1Ru63M67.jpg
+¦       ¦   ¦       sudoku_1004_jpg.rf.9hWetj50y73ZR4TiKK37.jpg
+¦       ¦   ¦       sudoku_1006_jpg.rf.Lf3XtDSDxDBEnRzVuxJD.jpg
+¦       ¦   ¦       sudoku_1007_jpg.rf.L9gDlTl3QqnRzCwhFFFb.jpg
+¦       ¦   ¦       sudoku_100_jpg.rf.6IGtnQhyki23E0QlQZW6.jpg
+¦       ¦   ¦       sudoku_101_jpg.rf.rfmEQ4nc5xOPLMv6L0ie.jpg
+¦       ¦   ¦       sudoku_1020_jpg.rf.71N3boCdH316lfoLhqGf.jpg
+¦       ¦   ¦       sudoku_102_jpg.rf.i4D1X4QQtbfR3Lk0PSIP.jpg
+¦       ¦   ¦       sudoku_1031_jpg.rf.7IyqSRW05geI0B2zORYD.jpg
+¦       ¦   ¦       sudoku_1036_jpg.rf.LgzqYzVHxN5weOil2m8m.jpg
+¦       ¦   ¦       sudoku_1038_jpg.rf.A1GTnhg52sUpwKYqSTsY.jpg
+¦       ¦   ¦       sudoku_1039_jpg.rf.K6hjkOePNezvGaflEhPp.jpg
+¦       ¦   ¦       sudoku_103_jpg.rf.sY1vCanLzZZyhf7XdkpC.jpg
+¦       ¦   ¦       sudoku_1040_jpg.rf.ryLB3T6891Zk5szxrsjm.jpg
+¦       ¦   ¦       sudoku_1043_jpg.rf.DXcprheoDlyp9rsOxWld.jpg
+¦       ¦   ¦       sudoku_1048_jpg.rf.3io1Dt0OBtDO7RJGmI9G.jpg
+¦       ¦   ¦       sudoku_104_jpg.rf.AYTP626zOm9q8fafwxPQ.jpg
+¦       ¦   ¦       sudoku_1050_jpg.rf.8aFIny7ExBCJLlmGknDq.jpg
+¦       ¦   ¦       sudoku_1055_jpg.rf.EOaFYiK1VYlhgfhxJTCd.jpg
+¦       ¦   ¦       sudoku_1059_jpg.rf.3q3fFQRnFZvYlFyzeJlS.jpg
+¦       ¦   ¦       sudoku_105_jpg.rf.Px6VyPSQTeaiaRn5zj30.jpg
+¦       ¦   ¦       sudoku_1062_jpg.rf.HLXCZIRCq4WKr8BaWpk7.jpg
+¦       ¦   ¦       sudoku_1066_jpg.rf.oRQLySM9oYPdFKIl1kiR.jpg
+¦       ¦   ¦       sudoku_1067_jpg.rf.CmhyhRVu9zFj5f2cUhs1.jpg
+¦       ¦   ¦       sudoku_106_jpg.rf.tO8qDGIv3nEgs78WnNgl.jpg
+¦       ¦   ¦       sudoku_1070_jpg.rf.kA1SS4A7Xi03It9XWs26.jpg
+¦       ¦   ¦       sudoku_1075_jpg.rf.FYq9ShSWqc2oRhLyL2AZ.jpg
+¦       ¦   ¦       sudoku_1076_jpg.rf.OWk3Ed0z7xt43YL7rqYI.jpg
+¦       ¦   ¦       sudoku_1078_jpg.rf.ktKrdy2WCLjlcceEZ94z.jpg
+¦       ¦   ¦       sudoku_107_jpg.rf.C34XI79gVvkJhFcDrPPB.jpg
+¦       ¦   ¦       sudoku_1081_jpg.rf.0zkjOVOGkfEtcuCXSdwR.jpg
+¦       ¦   ¦       sudoku_1082_jpg.rf.dcpZ6WOlxUPyx1NNIlay.jpg
+¦       ¦   ¦       sudoku_1087_jpg.rf.zg0LWUhfDQ57zOjstIee.jpg
+¦       ¦   ¦       sudoku_109_jpg.rf.hJMfoYgrCSjhas1n1JM8.jpg
+¦       ¦   ¦       sudoku_10_jpg.rf.m5hWZFfTtTM9Q2mCvj0f.jpg
+¦       ¦   ¦       sudoku_111_jpg.rf.v8cCt4BERYFDConLPM9v.jpg
+¦       ¦   ¦       sudoku_112_jpg.rf.NG2ArHyEG0B6fAGwwUDY.jpg
+¦       ¦   ¦       sudoku_116_jpg.rf.IEQZPp1Dg5q6hfoekeaS.jpg
+¦       ¦   ¦       sudoku_118_jpg.rf.uWiQhRt7dy3uB2aZ587t.jpg
+¦       ¦   ¦       sudoku_119_jpg.rf.Hb3T64VdcUnK1sz5P46C.jpg
+¦       ¦   ¦       sudoku_122_jpg.rf.ASaD4BuZWa1EjysSmqFR.jpg
+¦       ¦   ¦       sudoku_125_jpg.rf.SjYk8OlV3h9BAfQyAVBu.jpg
+¦       ¦   ¦       sudoku_128_jpg.rf.fi4c6LXq6k2XJJHnKdhF.jpg
+¦       ¦   ¦       sudoku_129_jpg.rf.TyuiQXlv93gQXz7MtFeV.jpg
+¦       ¦   ¦       sudoku_134_jpg.rf.kKwKuOrEgUeBQ7Zguf7z.jpg
+¦       ¦   ¦       sudoku_139_jpg.rf.LKvvFVjwE0iNBNRPh2aJ.jpg
+¦       ¦   ¦       sudoku_143_jpg.rf.CAGLkmYTbOpC6DKjVzH1.jpg
+¦       ¦   ¦       sudoku_150_jpg.rf.vlCuidZStF2gNIONLCdB.jpg
+¦       ¦   ¦       sudoku_151_jpg.rf.0KXC6L6pubwcBCxogOfM.jpg
+¦       ¦   ¦       sudoku_154_jpg.rf.SG87DoGiOXYfgSP4f3Mr.jpg
+¦       ¦   ¦       sudoku_155_jpg.rf.Z5V3d7QukVbvojCHVOg8.jpg
+¦       ¦   ¦       sudoku_156_jpg.rf.cPJF8sx0GnnJtvdDJuYb.jpg
+¦       ¦   ¦       sudoku_158_jpg.rf.5Rol6LA2L2kqYY8yJiJQ.jpg
+¦       ¦   ¦       sudoku_159_jpg.rf.oYVW5omArjyO5VsjAdPg.jpg
+¦       ¦   ¦       sudoku_160_jpg.rf.PatEUiWTBdNGgHALMOXJ.jpg
+¦       ¦   ¦       sudoku_161_jpg.rf.YoUUgaqxZI0NPcaQlcpO.jpg
+¦       ¦   ¦       sudoku_162_jpg.rf.7pAXNwAYReFnbHX5iEiz.jpg
+¦       ¦   ¦       sudoku_163_jpg.rf.mPzPsPSO7oRLPaubuUbJ.jpg
+¦       ¦   ¦       sudoku_165_jpg.rf.wfqlLtEFTkPwpM4qRx46.jpg
+¦       ¦   ¦       sudoku_167_jpg.rf.KLBHEsyy2dZ5Yba291s4.jpg
+¦       ¦   ¦       sudoku_169_jpg.rf.vV6ZtJ9KiebJEr0oXuu2.jpg
+¦       ¦   ¦       sudoku_16_jpg.rf.ELFhqiQMVWgNoCHizxYo.jpg
+¦       ¦   ¦       sudoku_170_jpg.rf.gVAAdovNH8ZHTOF3tCgX.jpg
+¦       ¦   ¦       sudoku_172_jpg.rf.HtnKHXCJmXfk63BklKGL.jpg
+¦       ¦   ¦       sudoku_174_jpg.rf.G1rmOGBvTf8wCRUooPAf.jpg
+¦       ¦   ¦       sudoku_177_jpg.rf.lDJsQVngdMGrLko0dnEd.jpg
+¦       ¦   ¦       sudoku_178_jpg.rf.Z7HBgrnu4EaOYPJJE1Gb.jpg
+¦       ¦   ¦       sudoku_180_jpg.rf.pcMmknZ21h5REg18Mjzm.jpg
+¦       ¦   ¦       sudoku_181_jpg.rf.39CvWD9Oh81zhfiWfZNM.jpg
+¦       ¦   ¦       sudoku_182_jpg.rf.hmM7hDMDT1W0GLNFAXMC.jpg
+¦       ¦   ¦       sudoku_183_jpg.rf.trTOCgx8nA2HTW67xTXe.jpg
+¦       ¦   ¦       sudoku_185_jpg.rf.r3Cq6lBiPZSqwCRwqcjv.jpg
+¦       ¦   ¦       sudoku_186_jpg.rf.KwPCMoTnx1G2F5O1CZmP.jpg
+¦       ¦   ¦       sudoku_188_jpg.rf.C7X8inAfzsmsUlnxn8Sw.jpg
+¦       ¦   ¦       sudoku_189_jpg.rf.wWHkusde4Y26kh7RKDkL.jpg
+¦       ¦   ¦       sudoku_192_jpg.rf.8neIUYPQyOBe5eMpGFGB.jpg
+¦       ¦   ¦       sudoku_194_jpg.rf.022vkhDjWPcyyBmZKZX8.jpg
+¦       ¦   ¦       sudoku_195_jpg.rf.eNG2tuQVQi2yx8PjoZjc.jpg
+¦       ¦   ¦       sudoku_198_jpg.rf.MotbbydZKI5ZNfslGdiQ.jpg
+¦       ¦   ¦       sudoku_199_jpg.rf.azkv0f7hM8dHCQL9NpsD.jpg
+¦       ¦   ¦       sudoku_19_jpg.rf.szpTAcfxYve729djiZZ3.jpg
+¦       ¦   ¦       sudoku_1_jpg.rf.6zuKkgW9ZLbh6QHTwKPX.jpg
+¦       ¦   ¦       sudoku_201_jpg.rf.5LqDwXxlfaFukxnStoxU.jpg
+¦       ¦   ¦       sudoku_203_jpg.rf.eAPCBeFGfLleJrnQnOGu.jpg
+¦       ¦   ¦       sudoku_209_jpg.rf.BJwAERTBdkLjADGF6eUZ.jpg
+¦       ¦   ¦       sudoku_21_jpg.rf.Ylv2I8bYongH9E2kllTE.jpg
+¦       ¦   ¦       sudoku_22_jpg.rf.yB5EGljCbftfFgX38p3Z.jpg
+¦       ¦   ¦       sudoku_23_jpg.rf.OHSB8Z1VKTscfwLYGmRY.jpg
+¦       ¦   ¦       sudoku_26_jpg.rf.l9EoLSgVeUuhuD35JLLc.jpg
+¦       ¦   ¦       sudoku_27_jpg.rf.EsroplU7dZhK8QwiDFlM.jpg
+¦       ¦   ¦       sudoku_28_jpg.rf.wXObzcQDYhzQyOsRKa0J.jpg
+¦       ¦   ¦       sudoku_29_jpg.rf.2qeBbp9ODDnvWrslQqv1.jpg
+¦       ¦   ¦       sudoku_2_jpg.rf.54r8s52tJBvPpoBa0AKI.jpg
+¦       ¦   ¦       sudoku_30_jpg.rf.P1Y4Z2YwGwtiT8tZqzO5.jpg
+¦       ¦   ¦       sudoku_3230_jpg.rf.Nps6Mhc2yEujcL84VhoG.jpg
+¦       ¦   ¦       sudoku_3231_jpg.rf.g3oALZqWayEweIPW6FHu.jpg
+¦       ¦   ¦       sudoku_3235_jpg.rf.V6fzHkQTJGeWSKpERnJ4.jpg
+¦       ¦   ¦       sudoku_3239_jpg.rf.w5AbSPdXU4EEQbagYy16.jpg
+¦       ¦   ¦       sudoku_3241_jpg.rf.GUgJon1ePmmMVEvP8naX.jpg
+¦       ¦   ¦       sudoku_3246_jpg.rf.ehA4AYfjlI0mrsHlxrhv.jpg
+¦       ¦   ¦       sudoku_3249_jpg.rf.VBEEvRAMylAmYPm1ZVdB.jpg
+¦       ¦   ¦       sudoku_3253_jpg.rf.NpXyAuK3F56UkQMZATOl.jpg
+¦       ¦   ¦       sudoku_3254_jpg.rf.5Z90YUuzuTVLwlQvFIE9.jpg
+¦       ¦   ¦       sudoku_3255_jpg.rf.ypJyev2NeKdmSlji8dMW.jpg
+¦       ¦   ¦       sudoku_3261_jpg.rf.zUPq6P3BGFteZ0lESNdk.jpg
+¦       ¦   ¦       sudoku_3264_jpg.rf.z7AXL8oC6Wsw2omCgVnb.jpg
+¦       ¦   ¦       sudoku_3266_jpg.rf.6KMywgbeIPMeMS9Jgla0.jpg
+¦       ¦   ¦       sudoku_3267_jpg.rf.YFDS5zFIvV68FXpE7UhG.jpg
+¦       ¦   ¦       sudoku_3268_jpg.rf.bPo6XgplN0mLKp9nndsq.jpg
+¦       ¦   ¦       sudoku_3274_jpg.rf.jBYyss1GK7EvkyrcUjAe.jpg
+¦       ¦   ¦       sudoku_3275_jpg.rf.C7UxHDJbAr8qWC8iTQJt.jpg
+¦       ¦   ¦       sudoku_3276_jpg.rf.6DAhJoi7dwpPkkTVRyJ9.jpg
+¦       ¦   ¦       sudoku_3277_jpg.rf.pfegizHV8a72kIvhJUYB.jpg
+¦       ¦   ¦       sudoku_3278_jpg.rf.sDGlccShZNikLR6qRa09.jpg
+¦       ¦   ¦       sudoku_3279_jpg.rf.9nIvWQDeWV5JGSnF7WTM.jpg
+¦       ¦   ¦       sudoku_3280_jpg.rf.VLuSmdITQpGhwGNPnk9N.jpg
+¦       ¦   ¦       sudoku_3282_jpg.rf.xLqhtMzeBthYUugOyzK0.jpg
+¦       ¦   ¦       sudoku_3283_jpg.rf.BRtoNeITMM6cENXtVxPg.jpg
+¦       ¦   ¦       sudoku_3284_jpg.rf.veGExo6Z3h94tQhQDBLe.jpg
+¦       ¦   ¦       sudoku_3285_jpg.rf.xcX9BRiHhiSL5DZNyz6W.jpg
+¦       ¦   ¦       sudoku_3287_jpg.rf.ReAuV5gYqH23OrunwaEr.jpg
+¦       ¦   ¦       sudoku_3288_jpg.rf.7Qyuhin4YvMxXWppGmqW.jpg
+¦       ¦   ¦       sudoku_3289_jpg.rf.XeoHhyBCkb994OOYwnKc.jpg
+¦       ¦   ¦       sudoku_3290_jpg.rf.taAUOutHw0Yl3VX0zzuq.jpg
+¦       ¦   ¦       sudoku_3291_jpg.rf.fvSx8n9WrrP4oFnXt5Al.jpg
+¦       ¦   ¦       sudoku_3292_jpg.rf.Vna4IIZaZ2abgfywT0t3.jpg
+¦       ¦   ¦       sudoku_3296_jpg.rf.iRRjAJhJl6yJfrjo0w2q.jpg
+¦       ¦   ¦       sudoku_3297_jpg.rf.A8NLEB0zCGK0sGbaBX6U.jpg
+¦       ¦   ¦       sudoku_3298_jpg.rf.x9CJNOkYo5pCvqs45nzo.jpg
+¦       ¦   ¦       sudoku_3299_jpg.rf.3pnfKbNy3Cl8MMuKtCgD.jpg
+¦       ¦   ¦       sudoku_3300_jpg.rf.1TykVWGq5XyMZ384nso0.jpg
+¦       ¦   ¦       sudoku_3302_jpg.rf.ZkAI3vUbXphxn1YlyhOG.jpg
+¦       ¦   ¦       sudoku_3303_jpg.rf.78HqmNify8O5EFcI07uM.jpg
+¦       ¦   ¦       sudoku_3304_jpg.rf.0qhpWnyjjVPIMKiiYhDz.jpg
+¦       ¦   ¦       sudoku_3305_jpg.rf.0Wvtqh1DrwqK7kqX9wro.jpg
+¦       ¦   ¦       sudoku_3306_jpg.rf.Gc76YS1haLEpAyGH2vjA.jpg
+¦       ¦   ¦       sudoku_3307_jpg.rf.qBxvHy4m01hkirfVImWy.jpg
+¦       ¦   ¦       sudoku_3308_jpg.rf.at4G84NKueCqcifr2V8v.jpg
+¦       ¦   ¦       sudoku_3309_jpg.rf.uXIOoS6Ezlmq4FnDEJpZ.jpg
+¦       ¦   ¦       sudoku_3310_jpg.rf.dtoBKLIBuMAJe5w2cwY6.jpg
+¦       ¦   ¦       sudoku_3311_jpg.rf.wepJIJLnzLyQzr1kTjDg.jpg
+¦       ¦   ¦       sudoku_3312_jpg.rf.bUQC2KTlreK04xyg1SFg.jpg
+¦       ¦   ¦       sudoku_3313_jpg.rf.Xb2Bh5GYqCwjXlohO3Yk.jpg
+¦       ¦   ¦       sudoku_3314_jpg.rf.7JQx1DERJihlKkMHg4NB.jpg
+¦       ¦   ¦       sudoku_33_jpg.rf.LbrIS4RxAYG8HiUp8bgK.jpg
+¦       ¦   ¦       sudoku_37_jpg.rf.fbmOFAOm7EkXXWRutlhi.jpg
+¦       ¦   ¦       sudoku_40_jpg.rf.FZKaMsLCdkhgSNxh5FSR.jpg
+¦       ¦   ¦       sudoku_42_jpg.rf.Ecx9oL5ajwRhoXc95bri.jpg
+¦       ¦   ¦       sudoku_43_jpg.rf.W5LNMtRHNEwfchrJwUW3.jpg
+¦       ¦   ¦       sudoku_56_jpg.rf.1W1hROmh0dXwbPbpyd0c.jpg
+¦       ¦   ¦       sudoku_58_jpg.rf.twuRC11ewb6hRkCI1IRw.jpg
+¦       ¦   ¦       sudoku_61_jpg.rf.Y0U544JokDhRY8OurxMQ.jpg
+¦       ¦   ¦       sudoku_65_jpg.rf.cFTHCGIQzJMQByyX7xbw.jpg
+¦       ¦   ¦       sudoku_71_jpg.rf.1BuIvKxq3G1mSuZdglZ6.jpg
+¦       ¦   ¦       sudoku_72_jpg.rf.i6Z3yDwWjUUl1WIZyVSG.jpg
+¦       ¦   ¦       sudoku_77_jpg.rf.pDbWoMDaIYwvlfWzPIQB.jpg
+¦       ¦   ¦       sudoku_79_jpg.rf.blIByx4uVSY7J4LNx49c.jpg
+¦       ¦   ¦       sudoku_80_jpg.rf.Uq7LMI11zcjPak9O79Ht.jpg
+¦       ¦   ¦       sudoku_81_jpg.rf.W4nsno9DWvqCYmTIfi8y.jpg
+¦       ¦   ¦       sudoku_82_jpg.rf.z10Pkk55xeWnLiFQK3ra.jpg
+¦       ¦   ¦       sudoku_88888_jpg.rf.wyGy1vE9MszyMmOGKFgv.jpg
+¦       ¦   ¦       sudoku_8_jpg.rf.3vXomII2yP3AGsaqEWxw.jpg
+¦       ¦   ¦       sudoku_90_jpg.rf.TfGRza83owcgKMHatIUb.jpg
+¦       ¦   ¦       sudoku_93_jpg.rf.Pi8q5coIg2Tpr4cKkLlJ.jpg
+¦       ¦   ¦       sudoku_94_jpg.rf.twEiWQ1cwiP90moaPcrl.jpg
+¦       ¦   ¦       sudoku_95_jpg.rf.clInpDhcLmbQEA5wJs1e.jpg
+¦       ¦   ¦       sudoku_96_jpg.rf.IAmZQvbvJ8Gf3DHUxLKt.jpg
+¦       ¦   ¦       sudoku_97_jpg.rf.tXJ9g03cWyONE62fVBwg.jpg
+¦       ¦   ¦       sudoku_99_jpg.rf.dsYZkXnbLbHJ73akMW0H.jpg
+¦       ¦   ¦       sudoku_9_jpg.rf.zeZMCYA3KZpTvDeIB5CE.jpg
+¦       ¦   ¦       
+¦       ¦   +---val
+¦       ¦           sudoku_1001_jpg.rf.iNTObKq7f7i3k9RE5n5J.jpg
+¦       ¦           sudoku_1014_jpg.rf.1pzYAGUGgHiQ8MpkmPxp.jpg
+¦       ¦           sudoku_113_jpg.rf.XIy68XD5YSRUVFtRnOMD.jpg
+¦       ¦           sudoku_115_jpg.rf.ZabkdymF7s32cRm14C1q.jpg
+¦       ¦           sudoku_11_jpg.rf.hmN2CCh35nQF2kw6eBFt.jpg
+¦       ¦           sudoku_136_jpg.rf.TGHus8sPr9oJ0Ljsb8Pt.jpg
+¦       ¦           sudoku_13_jpg.rf.6inS7ivEy3epINyPalWc.jpg
+¦       ¦           sudoku_147_jpg.rf.trvZw1cj5aXPqyU8YGqk.jpg
+¦       ¦           sudoku_164_jpg.rf.vCzXb1JFcIPIrDrqOLtg.jpg
+¦       ¦           sudoku_173_jpg.rf.slghd7jRPfZ5Stdv458S.jpg
+¦       ¦           sudoku_191_jpg.rf.89lWmOG1AJDJpoTzXqU5.jpg
+¦       ¦           sudoku_206_jpg.rf.iEVd2kPou9ne2tm2kkIm.jpg
+¦       ¦           sudoku_24_jpg.rf.5LuCuAbXHY6zLz8EYBid.jpg
+¦       ¦           sudoku_3236_jpg.rf.SRMRa0rDna322woiDqB6.jpg
+¦       ¦           sudoku_3262_jpg.rf.xqHXT3hKomEUtDStVkL5.jpg
+¦       ¦           sudoku_3286_jpg.rf.YfpwMcEC27CTV8Okmplw.jpg
+¦       ¦           sudoku_3294_jpg.rf.56mOx8hTzsbInTz6lB6h.jpg
+¦       ¦           sudoku_44_jpg.rf.Pwa4Oco139KdagSh1Mbj.jpg
+¦       ¦           sudoku_74_jpg.rf.rWU1QSZTOiBxNlsD8Clw.jpg
+¦       ¦           sudoku_84_jpg.rf.jqrZdHuYgJMU4ij9tq1K.jpg
+¦       ¦           sudoku_98_jpg.rf.FxPFblQCy5msDvR2zH8b.jpg
+¦       ¦           
+¦       +---labels
+¦           ¦   train.cache
+¦           ¦   val.cache
+¦           ¦   
+¦           +---test
+¦           ¦       sudoku_1008_jpg.rf.WAN6c48NXkKe69G07Ln0.txt
+¦           ¦       sudoku_1011_jpg.rf.0XxUhc9bObrHzIOreBdg.txt
+¦           ¦       sudoku_1022_jpg.rf.UcSmkobAHjE2tWUBsAce.txt
+¦           ¦       sudoku_1045_jpg.rf.cLs5QuKaAfNVQZz7Zn1a.txt
+¦           ¦       sudoku_1049_jpg.rf.UvMgx1o8MGhMtkBAJNmh.txt
+¦           ¦       sudoku_1077_jpg.rf.Yg2xrD45CrM78StLyiPD.txt
+¦           ¦       sudoku_1083_jpg.rf.BqLeEZ8NlIUsq6pnDMVN.txt
+¦           ¦       sudoku_1086_jpg.rf.DuI53BClgEYjUXzb4M8j.txt
+¦           ¦       sudoku_145_jpg.rf.6CLS4Ocyl3j3jk4iJp3Z.txt
+¦           ¦       sudoku_157_jpg.rf.2NbjmQshEPWOSevJx1sU.txt
+¦           ¦       sudoku_168_jpg.rf.pfhTWZY1G9sbBr6PPDKz.txt
+¦           ¦       sudoku_171_jpg.rf.0WTTrhxxmpvRDL3RcWfi.txt
+¦           ¦       sudoku_184_jpg.rf.WNIPdQOCcB0txyJD0IIp.txt
+¦           ¦       sudoku_202_jpg.rf.tHoF6onsvBBgvNwbYnWw.txt
+¦           ¦       sudoku_204_jpg.rf.RLmFJMdr7oZrdwbUt3Y7.txt
+¦           ¦       sudoku_3265_jpg.rf.8Ej0j0WX0LKXfKDIi0DC.txt
+¦           ¦       sudoku_3281_jpg.rf.ypNiTSlYMrK0TzVraOcf.txt
+¦           ¦       sudoku_3293_jpg.rf.6BSQgFsUa2hf5AYMya1M.txt
+¦           ¦       sudoku_3295_jpg.rf.FpFbVGMHTlUDCmSrYTCw.txt
+¦           ¦       sudoku_3301_jpg.rf.I7Z0ch2E5zsRTYTL1xMT.txt
+¦           ¦       sudoku_36_jpg.rf.0yLtDHmNMfuHapbZEKZ3.txt
+¦           ¦       sudoku_41_jpg.rf.7nqM46ScDSSGcUOjKMgG.txt
+¦           ¦       
+¦           +---train
+¦           ¦       sudoku_1003_jpg.rf.xqtpFVdMkddO1Ru63M67.txt
+¦           ¦       sudoku_1004_jpg.rf.9hWetj50y73ZR4TiKK37.txt
+¦           ¦       sudoku_1006_jpg.rf.Lf3XtDSDxDBEnRzVuxJD.txt
+¦           ¦       sudoku_1007_jpg.rf.L9gDlTl3QqnRzCwhFFFb.txt
+¦           ¦       sudoku_100_jpg.rf.6IGtnQhyki23E0QlQZW6.txt
+¦           ¦       sudoku_101_jpg.rf.rfmEQ4nc5xOPLMv6L0ie.txt
+¦           ¦       sudoku_1020_jpg.rf.71N3boCdH316lfoLhqGf.txt
+¦           ¦       sudoku_102_jpg.rf.i4D1X4QQtbfR3Lk0PSIP.txt
+¦           ¦       sudoku_1031_jpg.rf.7IyqSRW05geI0B2zORYD.txt
+¦           ¦       sudoku_1036_jpg.rf.LgzqYzVHxN5weOil2m8m.txt
+¦           ¦       sudoku_1038_jpg.rf.A1GTnhg52sUpwKYqSTsY.txt
+¦           ¦       sudoku_1039_jpg.rf.K6hjkOePNezvGaflEhPp.txt
+¦           ¦       sudoku_103_jpg.rf.sY1vCanLzZZyhf7XdkpC.txt
+¦           ¦       sudoku_1040_jpg.rf.ryLB3T6891Zk5szxrsjm.txt
+¦           ¦       sudoku_1043_jpg.rf.DXcprheoDlyp9rsOxWld.txt
+¦           ¦       sudoku_1048_jpg.rf.3io1Dt0OBtDO7RJGmI9G.txt
+¦           ¦       sudoku_104_jpg.rf.AYTP626zOm9q8fafwxPQ.txt
+¦           ¦       sudoku_1050_jpg.rf.8aFIny7ExBCJLlmGknDq.txt
+¦           ¦       sudoku_1055_jpg.rf.EOaFYiK1VYlhgfhxJTCd.txt
+¦           ¦       sudoku_1059_jpg.rf.3q3fFQRnFZvYlFyzeJlS.txt
+¦           ¦       sudoku_105_jpg.rf.Px6VyPSQTeaiaRn5zj30.txt
+¦           ¦       sudoku_1062_jpg.rf.HLXCZIRCq4WKr8BaWpk7.txt
+¦           ¦       sudoku_1066_jpg.rf.oRQLySM9oYPdFKIl1kiR.txt
+¦           ¦       sudoku_1067_jpg.rf.CmhyhRVu9zFj5f2cUhs1.txt
+¦           ¦       sudoku_106_jpg.rf.tO8qDGIv3nEgs78WnNgl.txt
+¦           ¦       sudoku_1070_jpg.rf.kA1SS4A7Xi03It9XWs26.txt
+¦           ¦       sudoku_1075_jpg.rf.FYq9ShSWqc2oRhLyL2AZ.txt
+¦           ¦       sudoku_1076_jpg.rf.OWk3Ed0z7xt43YL7rqYI.txt
+¦           ¦       sudoku_1078_jpg.rf.ktKrdy2WCLjlcceEZ94z.txt
+¦           ¦       sudoku_107_jpg.rf.C34XI79gVvkJhFcDrPPB.txt
+¦           ¦       sudoku_1081_jpg.rf.0zkjOVOGkfEtcuCXSdwR.txt
+¦           ¦       sudoku_1082_jpg.rf.dcpZ6WOlxUPyx1NNIlay.txt
+¦           ¦       sudoku_1087_jpg.rf.zg0LWUhfDQ57zOjstIee.txt
+¦           ¦       sudoku_109_jpg.rf.hJMfoYgrCSjhas1n1JM8.txt
+¦           ¦       sudoku_10_jpg.rf.m5hWZFfTtTM9Q2mCvj0f.txt
+¦           ¦       sudoku_111_jpg.rf.v8cCt4BERYFDConLPM9v.txt
+¦           ¦       sudoku_112_jpg.rf.NG2ArHyEG0B6fAGwwUDY.txt
+¦           ¦       sudoku_116_jpg.rf.IEQZPp1Dg5q6hfoekeaS.txt
+¦           ¦       sudoku_118_jpg.rf.uWiQhRt7dy3uB2aZ587t.txt
+¦           ¦       sudoku_119_jpg.rf.Hb3T64VdcUnK1sz5P46C.txt
+¦           ¦       sudoku_122_jpg.rf.ASaD4BuZWa1EjysSmqFR.txt
+¦           ¦       sudoku_125_jpg.rf.SjYk8OlV3h9BAfQyAVBu.txt
+¦           ¦       sudoku_128_jpg.rf.fi4c6LXq6k2XJJHnKdhF.txt
+¦           ¦       sudoku_129_jpg.rf.TyuiQXlv93gQXz7MtFeV.txt
+¦           ¦       sudoku_134_jpg.rf.kKwKuOrEgUeBQ7Zguf7z.txt
+¦           ¦       sudoku_139_jpg.rf.LKvvFVjwE0iNBNRPh2aJ.txt
+¦           ¦       sudoku_143_jpg.rf.CAGLkmYTbOpC6DKjVzH1.txt
+¦           ¦       sudoku_150_jpg.rf.vlCuidZStF2gNIONLCdB.txt
+¦           ¦       sudoku_151_jpg.rf.0KXC6L6pubwcBCxogOfM.txt
+¦           ¦       sudoku_154_jpg.rf.SG87DoGiOXYfgSP4f3Mr.txt
+¦           ¦       sudoku_155_jpg.rf.Z5V3d7QukVbvojCHVOg8.txt
+¦           ¦       sudoku_156_jpg.rf.cPJF8sx0GnnJtvdDJuYb.txt
+¦           ¦       sudoku_158_jpg.rf.5Rol6LA2L2kqYY8yJiJQ.txt
+¦           ¦       sudoku_159_jpg.rf.oYVW5omArjyO5VsjAdPg.txt
+¦           ¦       sudoku_160_jpg.rf.PatEUiWTBdNGgHALMOXJ.txt
+¦           ¦       sudoku_161_jpg.rf.YoUUgaqxZI0NPcaQlcpO.txt
+¦           ¦       sudoku_162_jpg.rf.7pAXNwAYReFnbHX5iEiz.txt
+¦           ¦       sudoku_163_jpg.rf.mPzPsPSO7oRLPaubuUbJ.txt
+¦           ¦       sudoku_165_jpg.rf.wfqlLtEFTkPwpM4qRx46.txt
+¦           ¦       sudoku_167_jpg.rf.KLBHEsyy2dZ5Yba291s4.txt
+¦           ¦       sudoku_169_jpg.rf.vV6ZtJ9KiebJEr0oXuu2.txt
+¦           ¦       sudoku_16_jpg.rf.ELFhqiQMVWgNoCHizxYo.txt
+¦           ¦       sudoku_170_jpg.rf.gVAAdovNH8ZHTOF3tCgX.txt
+¦           ¦       sudoku_172_jpg.rf.HtnKHXCJmXfk63BklKGL.txt
+¦           ¦       sudoku_174_jpg.rf.G1rmOGBvTf8wCRUooPAf.txt
+¦           ¦       sudoku_177_jpg.rf.lDJsQVngdMGrLko0dnEd.txt
+¦           ¦       sudoku_178_jpg.rf.Z7HBgrnu4EaOYPJJE1Gb.txt
+¦           ¦       sudoku_180_jpg.rf.pcMmknZ21h5REg18Mjzm.txt
+¦           ¦       sudoku_181_jpg.rf.39CvWD9Oh81zhfiWfZNM.txt
+¦           ¦       sudoku_182_jpg.rf.hmM7hDMDT1W0GLNFAXMC.txt
+¦           ¦       sudoku_183_jpg.rf.trTOCgx8nA2HTW67xTXe.txt
+¦           ¦       sudoku_185_jpg.rf.r3Cq6lBiPZSqwCRwqcjv.txt
+¦           ¦       sudoku_186_jpg.rf.KwPCMoTnx1G2F5O1CZmP.txt
+¦           ¦       sudoku_188_jpg.rf.C7X8inAfzsmsUlnxn8Sw.txt
+¦           ¦       sudoku_189_jpg.rf.wWHkusde4Y26kh7RKDkL.txt
+¦           ¦       sudoku_192_jpg.rf.8neIUYPQyOBe5eMpGFGB.txt
+¦           ¦       sudoku_194_jpg.rf.022vkhDjWPcyyBmZKZX8.txt
+¦           ¦       sudoku_195_jpg.rf.eNG2tuQVQi2yx8PjoZjc.txt
+¦           ¦       sudoku_198_jpg.rf.MotbbydZKI5ZNfslGdiQ.txt
+¦           ¦       sudoku_199_jpg.rf.azkv0f7hM8dHCQL9NpsD.txt
+¦           ¦       sudoku_19_jpg.rf.szpTAcfxYve729djiZZ3.txt
+¦           ¦       sudoku_1_jpg.rf.6zuKkgW9ZLbh6QHTwKPX.txt
+¦           ¦       sudoku_201_jpg.rf.5LqDwXxlfaFukxnStoxU.txt
+¦           ¦       sudoku_203_jpg.rf.eAPCBeFGfLleJrnQnOGu.txt
+¦           ¦       sudoku_209_jpg.rf.BJwAERTBdkLjADGF6eUZ.txt
+¦           ¦       sudoku_21_jpg.rf.Ylv2I8bYongH9E2kllTE.txt
+¦           ¦       sudoku_22_jpg.rf.yB5EGljCbftfFgX38p3Z.txt
+¦           ¦       sudoku_23_jpg.rf.OHSB8Z1VKTscfwLYGmRY(1).txt
+¦           ¦       sudoku_23_jpg.rf.OHSB8Z1VKTscfwLYGmRY.txt
+¦           ¦       sudoku_26_jpg.rf.l9EoLSgVeUuhuD35JLLc(1).txt
+¦           ¦       sudoku_26_jpg.rf.l9EoLSgVeUuhuD35JLLc.txt
+¦           ¦       sudoku_27_jpg.rf.EsroplU7dZhK8QwiDFlM(1).txt
+¦           ¦       sudoku_27_jpg.rf.EsroplU7dZhK8QwiDFlM.txt
+¦           ¦       sudoku_28_jpg.rf.wXObzcQDYhzQyOsRKa0J(1).txt
+¦           ¦       sudoku_28_jpg.rf.wXObzcQDYhzQyOsRKa0J.txt
+¦           ¦       sudoku_29_jpg.rf.2qeBbp9ODDnvWrslQqv1(1).txt
+¦           ¦       sudoku_29_jpg.rf.2qeBbp9ODDnvWrslQqv1.txt
+¦           ¦       sudoku_2_jpg.rf.54r8s52tJBvPpoBa0AKI(1).txt
+¦           ¦       sudoku_2_jpg.rf.54r8s52tJBvPpoBa0AKI.txt
+¦           ¦       sudoku_30_jpg.rf.P1Y4Z2YwGwtiT8tZqzO5(1).txt
+¦           ¦       sudoku_30_jpg.rf.P1Y4Z2YwGwtiT8tZqzO5.txt
+¦           ¦       sudoku_3230_jpg.rf.Nps6Mhc2yEujcL84VhoG(1).txt
+¦           ¦       sudoku_3230_jpg.rf.Nps6Mhc2yEujcL84VhoG.txt
+¦           ¦       sudoku_3231_jpg.rf.g3oALZqWayEweIPW6FHu(1).txt
+¦           ¦       sudoku_3231_jpg.rf.g3oALZqWayEweIPW6FHu.txt
+¦           ¦       sudoku_3235_jpg.rf.V6fzHkQTJGeWSKpERnJ4(1).txt
+¦           ¦       sudoku_3235_jpg.rf.V6fzHkQTJGeWSKpERnJ4.txt
+¦           ¦       sudoku_3239_jpg.rf.w5AbSPdXU4EEQbagYy16(1).txt
+¦           ¦       sudoku_3239_jpg.rf.w5AbSPdXU4EEQbagYy16.txt
+¦           ¦       sudoku_3241_jpg.rf.GUgJon1ePmmMVEvP8naX(1).txt
+¦           ¦       sudoku_3241_jpg.rf.GUgJon1ePmmMVEvP8naX.txt
+¦           ¦       sudoku_3246_jpg.rf.ehA4AYfjlI0mrsHlxrhv(1).txt
+¦           ¦       sudoku_3246_jpg.rf.ehA4AYfjlI0mrsHlxrhv.txt
+¦           ¦       sudoku_3249_jpg.rf.VBEEvRAMylAmYPm1ZVdB(1).txt
+¦           ¦       sudoku_3249_jpg.rf.VBEEvRAMylAmYPm1ZVdB.txt
+¦           ¦       sudoku_3253_jpg.rf.NpXyAuK3F56UkQMZATOl(1).txt
+¦           ¦       sudoku_3253_jpg.rf.NpXyAuK3F56UkQMZATOl.txt
+¦           ¦       sudoku_3254_jpg.rf.5Z90YUuzuTVLwlQvFIE9(1).txt
+¦           ¦       sudoku_3254_jpg.rf.5Z90YUuzuTVLwlQvFIE9.txt
+¦           ¦       sudoku_3255_jpg.rf.ypJyev2NeKdmSlji8dMW.txt
+¦           ¦       sudoku_3261_jpg.rf.zUPq6P3BGFteZ0lESNdk.txt
+¦           ¦       sudoku_3264_jpg.rf.z7AXL8oC6Wsw2omCgVnb.txt
+¦           ¦       sudoku_3266_jpg.rf.6KMywgbeIPMeMS9Jgla0.txt
+¦           ¦       sudoku_3267_jpg.rf.YFDS5zFIvV68FXpE7UhG.txt
+¦           ¦       sudoku_3268_jpg.rf.bPo6XgplN0mLKp9nndsq.txt
+¦           ¦       sudoku_3274_jpg.rf.jBYyss1GK7EvkyrcUjAe.txt
+¦           ¦       sudoku_3275_jpg.rf.C7UxHDJbAr8qWC8iTQJt.txt
+¦           ¦       sudoku_3276_jpg.rf.6DAhJoi7dwpPkkTVRyJ9.txt
+¦           ¦       sudoku_3277_jpg.rf.pfegizHV8a72kIvhJUYB.txt
+¦           ¦       sudoku_3278_jpg.rf.sDGlccShZNikLR6qRa09.txt
+¦           ¦       sudoku_3279_jpg.rf.9nIvWQDeWV5JGSnF7WTM.txt
+¦           ¦       sudoku_3280_jpg.rf.VLuSmdITQpGhwGNPnk9N.txt
+¦           ¦       sudoku_3282_jpg.rf.xLqhtMzeBthYUugOyzK0.txt
+¦           ¦       sudoku_3283_jpg.rf.BRtoNeITMM6cENXtVxPg.txt
+¦           ¦       sudoku_3284_jpg.rf.veGExo6Z3h94tQhQDBLe.txt
+¦           ¦       sudoku_3285_jpg.rf.xcX9BRiHhiSL5DZNyz6W.txt
+¦           ¦       sudoku_3287_jpg.rf.ReAuV5gYqH23OrunwaEr.txt
+¦           ¦       sudoku_3288_jpg.rf.7Qyuhin4YvMxXWppGmqW.txt
+¦           ¦       sudoku_3289_jpg.rf.XeoHhyBCkb994OOYwnKc.txt
+¦           ¦       sudoku_3290_jpg.rf.taAUOutHw0Yl3VX0zzuq.txt
+¦           ¦       sudoku_3291_jpg.rf.fvSx8n9WrrP4oFnXt5Al.txt
+¦           ¦       sudoku_3292_jpg.rf.Vna4IIZaZ2abgfywT0t3.txt
+¦           ¦       sudoku_3296_jpg.rf.iRRjAJhJl6yJfrjo0w2q.txt
+¦           ¦       sudoku_3297_jpg.rf.A8NLEB0zCGK0sGbaBX6U.txt
+¦           ¦       sudoku_3298_jpg.rf.x9CJNOkYo5pCvqs45nzo.txt
+¦           ¦       sudoku_3299_jpg.rf.3pnfKbNy3Cl8MMuKtCgD.txt
+¦           ¦       sudoku_3300_jpg.rf.1TykVWGq5XyMZ384nso0.txt
+¦           ¦       sudoku_3302_jpg.rf.ZkAI3vUbXphxn1YlyhOG.txt
+¦           ¦       sudoku_3303_jpg.rf.78HqmNify8O5EFcI07uM.txt
+¦           ¦       sudoku_3304_jpg.rf.0qhpWnyjjVPIMKiiYhDz.txt
+¦           ¦       sudoku_3305_jpg.rf.0Wvtqh1DrwqK7kqX9wro.txt
+¦           ¦       sudoku_3306_jpg.rf.Gc76YS1haLEpAyGH2vjA.txt
+¦           ¦       sudoku_3307_jpg.rf.qBxvHy4m01hkirfVImWy.txt
+¦           ¦       sudoku_3308_jpg.rf.at4G84NKueCqcifr2V8v.txt
+¦           ¦       sudoku_3309_jpg.rf.uXIOoS6Ezlmq4FnDEJpZ.txt
+¦           ¦       sudoku_3310_jpg.rf.dtoBKLIBuMAJe5w2cwY6.txt
+¦           ¦       sudoku_3311_jpg.rf.wepJIJLnzLyQzr1kTjDg.txt
+¦           ¦       sudoku_3312_jpg.rf.bUQC2KTlreK04xyg1SFg.txt
+¦           ¦       sudoku_3313_jpg.rf.Xb2Bh5GYqCwjXlohO3Yk.txt
+¦           ¦       sudoku_3314_jpg.rf.7JQx1DERJihlKkMHg4NB.txt
+¦           ¦       sudoku_33_jpg.rf.LbrIS4RxAYG8HiUp8bgK.txt
+¦           ¦       sudoku_37_jpg.rf.fbmOFAOm7EkXXWRutlhi.txt
+¦           ¦       sudoku_40_jpg.rf.FZKaMsLCdkhgSNxh5FSR.txt
+¦           ¦       sudoku_42_jpg.rf.Ecx9oL5ajwRhoXc95bri.txt
+¦           ¦       sudoku_43_jpg.rf.W5LNMtRHNEwfchrJwUW3.txt
+¦           ¦       sudoku_56_jpg.rf.1W1hROmh0dXwbPbpyd0c.txt
+¦           ¦       sudoku_58_jpg.rf.twuRC11ewb6hRkCI1IRw.txt
+¦           ¦       sudoku_61_jpg.rf.Y0U544JokDhRY8OurxMQ.txt
+¦           ¦       sudoku_65_jpg.rf.cFTHCGIQzJMQByyX7xbw.txt
+¦           ¦       sudoku_71_jpg.rf.1BuIvKxq3G1mSuZdglZ6.txt
+¦           ¦       sudoku_72_jpg.rf.i6Z3yDwWjUUl1WIZyVSG.txt
+¦           ¦       sudoku_77_jpg.rf.pDbWoMDaIYwvlfWzPIQB.txt
+¦           ¦       sudoku_79_jpg.rf.blIByx4uVSY7J4LNx49c.txt
+¦           ¦       sudoku_80_jpg.rf.Uq7LMI11zcjPak9O79Ht.txt
+¦           ¦       sudoku_81_jpg.rf.W4nsno9DWvqCYmTIfi8y.txt
+¦           ¦       sudoku_82_jpg.rf.z10Pkk55xeWnLiFQK3ra.txt
+¦           ¦       sudoku_88888_jpg.rf.wyGy1vE9MszyMmOGKFgv.txt
+¦           ¦       sudoku_8_jpg.rf.3vXomII2yP3AGsaqEWxw.txt
+¦           ¦       sudoku_90_jpg.rf.TfGRza83owcgKMHatIUb.txt
+¦           ¦       sudoku_93_jpg.rf.Pi8q5coIg2Tpr4cKkLlJ.txt
+¦           ¦       sudoku_94_jpg.rf.twEiWQ1cwiP90moaPcrl.txt
+¦           ¦       sudoku_95_jpg.rf.clInpDhcLmbQEA5wJs1e.txt
+¦           ¦       sudoku_96_jpg.rf.IAmZQvbvJ8Gf3DHUxLKt.txt
+¦           ¦       sudoku_97_jpg.rf.tXJ9g03cWyONE62fVBwg.txt
+¦           ¦       sudoku_99_jpg.rf.dsYZkXnbLbHJ73akMW0H.txt
+¦           ¦       sudoku_9_jpg.rf.zeZMCYA3KZpTvDeIB5CE.txt
+¦           ¦       
+¦           +---val
+¦                   sudoku_1001_jpg.rf.iNTObKq7f7i3k9RE5n5J.txt
+¦                   sudoku_1014_jpg.rf.1pzYAGUGgHiQ8MpkmPxp.txt
+¦                   sudoku_113_jpg.rf.XIy68XD5YSRUVFtRnOMD.txt
+¦                   sudoku_115_jpg.rf.ZabkdymF7s32cRm14C1q.txt
+¦                   sudoku_11_jpg.rf.hmN2CCh35nQF2kw6eBFt.txt
+¦                   sudoku_136_jpg.rf.TGHus8sPr9oJ0Ljsb8Pt.txt
+¦                   sudoku_13_jpg.rf.6inS7ivEy3epINyPalWc.txt
+¦                   sudoku_147_jpg.rf.trvZw1cj5aXPqyU8YGqk.txt
+¦                   sudoku_164_jpg.rf.vCzXb1JFcIPIrDrqOLtg.txt
+¦                   sudoku_173_jpg.rf.slghd7jRPfZ5Stdv458S.txt
+¦                   sudoku_191_jpg.rf.89lWmOG1AJDJpoTzXqU5.txt
+¦                   sudoku_206_jpg.rf.iEVd2kPou9ne2tm2kkIm.txt
+¦                   sudoku_24_jpg.rf.5LuCuAbXHY6zLz8EYBid.txt
+¦                   sudoku_3236_jpg.rf.SRMRa0rDna322woiDqB6.txt
+¦                   sudoku_3262_jpg.rf.xqHXT3hKomEUtDStVkL5.txt
+¦                   sudoku_3286_jpg.rf.YfpwMcEC27CTV8Okmplw.txt
+¦                   sudoku_3294_jpg.rf.56mOx8hTzsbInTz6lB6h.txt
+¦                   sudoku_44_jpg.rf.Pwa4Oco139KdagSh1Mbj.txt
+¦                   sudoku_74_jpg.rf.rWU1QSZTOiBxNlsD8Clw.txt
+¦                   sudoku_84_jpg.rf.jqrZdHuYgJMU4ij9tq1K.txt
+¦                   sudoku_98_jpg.rf.FxPFblQCy5msDvR2zH8b.txt
+¦                   
++---roboflow
+    ¦   Sudoku Vision.v2-v2-2021-12-11-1-01am.yolov8.zip
+    ¦   
+    +---Sudoku Vision.v2-v2-2021-12-11-1-01am.yolov8
+        ¦   data.yaml
+        ¦   README.dataset.txt
+        ¦   README.roboflow.txt
+        ¦   
+        +---test
+        ¦   +---images
+        ¦   ¦       sudoku_103_jpg.rf.8b80cd8081205a5da7630aecb98cad5c.jpg
+        ¦   ¦       sudoku_1048_jpg.rf.de190150185cafd3db1306dfe688d41f.jpg
+        ¦   ¦       sudoku_1086_jpg.rf.5564f4f75ba0d67c520cf320747090e4.jpg
+        ¦   ¦       sudoku_143_jpg.rf.edbfac66aa4f2a657b56d3f625d5f101.jpg
+        ¦   ¦       sudoku_147_jpg.rf.851d712efc34715d304bd58220ea0f3d.jpg
+        ¦   ¦       sudoku_156_jpg.rf.cc4174a33b074f72a9649fe080a9073b.jpg
+        ¦   ¦       sudoku_160_jpg.rf.d6b9190f5711dbac1b681865860dd7ec.jpg
+        ¦   ¦       sudoku_173_jpg.rf.cf60c45b192280dd046df10cc54a1f5a.jpg
+        ¦   ¦       sudoku_184_jpg.rf.d1149e9eefcc82dab174879d9669f402.jpg
+        ¦   ¦       sudoku_194_jpg.rf.4466c00207b07dc14d5bb1366bff5fec.jpg
+        ¦   ¦       sudoku_3262_jpg.rf.de3ac981c5d5184f1942b51498ddb702.jpg
+        ¦   ¦       sudoku_3279_jpg.rf.25a3c50b8fb00e4d1099e57c483b1788.jpg
+        ¦   ¦       sudoku_3287_jpg.rf.64c25f7db4a7fc12f381536e7c5b0f78.jpg
+        ¦   ¦       sudoku_3288_jpg.rf.5aff634f24dfc3f4ceed048be7bee9a9.jpg
+        ¦   ¦       sudoku_3301_jpg.rf.e2918364c9be50f1e45ca0f6f03640a7.jpg
+        ¦   ¦       sudoku_3305_jpg.rf.5a855a0d83ca642a9b4cceb52e61acec.jpg
+        ¦   ¦       sudoku_3306_jpg.rf.786408e7a204c86b80223e1fe5d9a046.jpg
+        ¦   ¦       sudoku_3307_jpg.rf.3fc663cc5a390ba5e5c19395cccb2e14.jpg
+        ¦   ¦       sudoku_3314_jpg.rf.8fbd3673ff706445169d876793185751.jpg
+        ¦   ¦       sudoku_43_jpg.rf.f735e934b8ea73907f6eca14f5d7fca1.jpg
+        ¦   ¦       sudoku_88888_jpg.rf.90a545ba56a436dfe87c4766a7598ca2.jpg
+        ¦   ¦       
+        ¦   +---labels
+        ¦           sudoku_103_jpg.rf.8b80cd8081205a5da7630aecb98cad5c.txt
+        ¦           sudoku_1048_jpg.rf.de190150185cafd3db1306dfe688d41f.txt
+        ¦           sudoku_1086_jpg.rf.5564f4f75ba0d67c520cf320747090e4.txt
+        ¦           sudoku_143_jpg.rf.edbfac66aa4f2a657b56d3f625d5f101.txt
+        ¦           sudoku_147_jpg.rf.851d712efc34715d304bd58220ea0f3d.txt
+        ¦           sudoku_156_jpg.rf.cc4174a33b074f72a9649fe080a9073b.txt
+        ¦           sudoku_160_jpg.rf.d6b9190f5711dbac1b681865860dd7ec.txt
+        ¦           sudoku_173_jpg.rf.cf60c45b192280dd046df10cc54a1f5a.txt
+        ¦           sudoku_184_jpg.rf.d1149e9eefcc82dab174879d9669f402.txt
+        ¦           sudoku_194_jpg.rf.4466c00207b07dc14d5bb1366bff5fec.txt
+        ¦           sudoku_3262_jpg.rf.de3ac981c5d5184f1942b51498ddb702.txt
+        ¦           sudoku_3279_jpg.rf.25a3c50b8fb00e4d1099e57c483b1788.txt
+        ¦           sudoku_3287_jpg.rf.64c25f7db4a7fc12f381536e7c5b0f78.txt
+        ¦           sudoku_3288_jpg.rf.5aff634f24dfc3f4ceed048be7bee9a9.txt
+        ¦           sudoku_3301_jpg.rf.e2918364c9be50f1e45ca0f6f03640a7.txt
+        ¦           sudoku_3305_jpg.rf.5a855a0d83ca642a9b4cceb52e61acec.txt
+        ¦           sudoku_3306_jpg.rf.786408e7a204c86b80223e1fe5d9a046.txt
+        ¦           sudoku_3307_jpg.rf.3fc663cc5a390ba5e5c19395cccb2e14.txt
+        ¦           sudoku_3314_jpg.rf.8fbd3673ff706445169d876793185751.txt
+        ¦           sudoku_43_jpg.rf.f735e934b8ea73907f6eca14f5d7fca1.txt
+        ¦           sudoku_88888_jpg.rf.90a545ba56a436dfe87c4766a7598ca2.txt
+        ¦           
+        +---train
+        ¦   +---images
+        ¦   ¦       sudoku_1001_jpg.rf.45ed2c56bc6d5ec18e687f814ff11599.jpg
+        ¦   ¦       sudoku_1001_jpg.rf.dc9e7b5f4288a2ba6d38fdc4a586d3ac.jpg
+        ¦   ¦       sudoku_1001_jpg.rf.ea5688bb22880d83e4af8bd29348e593.jpg
+        ¦   ¦       sudoku_1003_jpg.rf.0e510f78e811c957f8b13f20fbffb887.jpg
+        ¦   ¦       sudoku_1003_jpg.rf.b07536f51e1e3ead4b2a098cfa5e81bc.jpg
+        ¦   ¦       sudoku_1003_jpg.rf.deb346814bb750314104a87f3453c6a7.jpg
+        ¦   ¦       sudoku_1006_jpg.rf.3b1bcb88cd13b98d3d8d9661ba7440ee.jpg
+        ¦   ¦       sudoku_1006_jpg.rf.8ecc0c74f09f18a6ce78cb6e097a45c4.jpg
+        ¦   ¦       sudoku_1006_jpg.rf.dd9d849d643716ad2b12a23168a7194d.jpg
+        ¦   ¦       sudoku_1008_jpg.rf.1cca13b3be6598b107fe4ca7f7614e2f.jpg
+        ¦   ¦       sudoku_1008_jpg.rf.6520b63d79e361ae34d59f41cce8152c.jpg
+        ¦   ¦       sudoku_1008_jpg.rf.f4661800b70705d42ab5848bd07289b1.jpg
+        ¦   ¦       sudoku_100_jpg.rf.b1a4fc4af2a6fc6270adecde26f7ff45.jpg
+        ¦   ¦       sudoku_100_jpg.rf.ca2d13227e741d392cda20b79cf73903.jpg
+        ¦   ¦       sudoku_100_jpg.rf.dfee3fe58d13a8fdf04ead5d1bc99c0e.jpg
+        ¦   ¦       sudoku_1011_jpg.rf.46571ec019a32f0a288dc6ee1c4c702a.jpg
+        ¦   ¦       sudoku_1011_jpg.rf.b6d3486d3f25c003f8de2a7924f7045a.jpg
+        ¦   ¦       sudoku_1011_jpg.rf.c711b89d747d3205eeafb344524655fc.jpg
+        ¦   ¦       sudoku_101_jpg.rf.4b98ce080831cd7842984e312586726f.jpg
+        ¦   ¦       sudoku_101_jpg.rf.861747a30dc6052a0a8e074d6d0de46f.jpg
+        ¦   ¦       sudoku_101_jpg.rf.dc98572da63bb5b3770ff7551fb69163.jpg
+        ¦   ¦       sudoku_1020_jpg.rf.09cf30adf616fd8500897fbf24ddd84b.jpg
+        ¦   ¦       sudoku_1020_jpg.rf.0c81b3230b80395c2c3c8e8c45b692fb.jpg
+        ¦   ¦       sudoku_1020_jpg.rf.c27260b0da422aa50653b47dfcc78bf6.jpg
+        ¦   ¦       sudoku_1022_jpg.rf.231c7c2b269b92e98a7f85eebe7bb55a.jpg
+        ¦   ¦       sudoku_1022_jpg.rf.b4c1c0c92157c2fa69fc56e188a460f8.jpg
+        ¦   ¦       sudoku_1022_jpg.rf.cb775a89c8bf4cd0432eded67a994782.jpg
+        ¦   ¦       sudoku_102_jpg.rf.44178d5d2195e08d4de6f172bfebdb96.jpg
+        ¦   ¦       sudoku_102_jpg.rf.6ee85e759657c75ef6b38e9ef93bb95a.jpg
+        ¦   ¦       sudoku_102_jpg.rf.ad8bf564f91af742e059e1742da04dbe.jpg
+        ¦   ¦       sudoku_1036_jpg.rf.03ec0e91f9f4ec8f01516bde41641539.jpg
+        ¦   ¦       sudoku_1036_jpg.rf.a8d3cd23c93be7dd64ce8e8afe16f220.jpg
+        ¦   ¦       sudoku_1036_jpg.rf.bd12fd8b541acb65c158b1529c2f76e2.jpg
+        ¦   ¦       sudoku_1038_jpg.rf.135ec794bf4525be6b9b042e52e23f79.jpg
+        ¦   ¦       sudoku_1038_jpg.rf.3c4a72d385d7719e6408176d749b8970.jpg
+        ¦   ¦       sudoku_1038_jpg.rf.fd7f44e07653a7bdcc2ae7f4193b0b63.jpg
+        ¦   ¦       sudoku_1039_jpg.rf.12cb3ca4368e77389b4521f916fd0f31.jpg
+        ¦   ¦       sudoku_1039_jpg.rf.17c2ddf09d13cb977ef0cc10725b5bbd.jpg
+        ¦   ¦       sudoku_1039_jpg.rf.65442fb36ba47769b70ba7acd1fb87a1.jpg
+        ¦   ¦       sudoku_1040_jpg.rf.106bc6a491dd504d193853ab7d4f222b.jpg
+        ¦   ¦       sudoku_1040_jpg.rf.b9d432ec6e94b045632f0f39d1fc0c09.jpg
+        ¦   ¦       sudoku_1040_jpg.rf.c73164c31adfa2355d53adc492c89b28.jpg
+        ¦   ¦       sudoku_1043_jpg.rf.418eb90493303889f0e3b6bda99c3a49.jpg
+        ¦   ¦       sudoku_1043_jpg.rf.5f34600cde47f1c70e61d388da5ac6ef.jpg
+        ¦   ¦       sudoku_1043_jpg.rf.f75ad8ff154d307a1cc4e7be981e71d9.jpg
+        ¦   ¦       sudoku_1045_jpg.rf.56f82bcae401389ad0bad86d9ecd7dd8.jpg
+        ¦   ¦       sudoku_1045_jpg.rf.5a3b397e6f357e2656f33b338c55461f.jpg
+        ¦   ¦       sudoku_1045_jpg.rf.d6d6fbf732167f7fed9f59ca1c58a802.jpg
+        ¦   ¦       sudoku_1049_jpg.rf.4027c06d43955389dad212b6fc1a4965.jpg
+        ¦   ¦       sudoku_1049_jpg.rf.a4ed2afdbfea1b0fb01f95f0ef61a177.jpg
+        ¦   ¦       sudoku_1049_jpg.rf.d7264392dcbf92ebe5da8a8be91a84b4.jpg
+        ¦   ¦       sudoku_1050_jpg.rf.596e53f22447791bcf4406a6df48c55f.jpg
+        ¦   ¦       sudoku_1050_jpg.rf.b4e6e1a7d72378c0d834bc2d8ca1f2fd.jpg
+        ¦   ¦       sudoku_1050_jpg.rf.d4534f648734721290d4c9cb1318ac7b.jpg
+        ¦   ¦       sudoku_105_jpg.rf.7b79b85a4de6abda6feccd2964a2a6be.jpg
+        ¦   ¦       sudoku_105_jpg.rf.ad4ad2dbab34f8cc9271c9b2a55db7c8.jpg
+        ¦   ¦       sudoku_105_jpg.rf.ad7033b57b22071d3ed7110aa535630c.jpg
+        ¦   ¦       sudoku_1062_jpg.rf.0407ef2095f128acea628f5549a2c687.jpg
+        ¦   ¦       sudoku_1062_jpg.rf.c4a86dc7fee6884677d0e9b3c7845a08.jpg
+        ¦   ¦       sudoku_1062_jpg.rf.e7f56209e02ccb6059e8171c84579ffc.jpg
+        ¦   ¦       sudoku_1066_jpg.rf.109de61dc6eca13d633cbf3af78292b5.jpg
+        ¦   ¦       sudoku_1066_jpg.rf.445f614f3a0d39017903885817f2f493.jpg
+        ¦   ¦       sudoku_1066_jpg.rf.789aa37d877b3f7fd56c9fa90e73db27.jpg
+        ¦   ¦       sudoku_1067_jpg.rf.152d836052404eb2c356718e9aa1b523.jpg
+        ¦   ¦       sudoku_1067_jpg.rf.42c568fa5bf032ddcbe23e7d176f16de.jpg
+        ¦   ¦       sudoku_1067_jpg.rf.bfb5b14f65708508d3928fbd57639aef.jpg
+        ¦   ¦       sudoku_1070_jpg.rf.69c1f06685de237d333ce8422f95e854.jpg
+        ¦   ¦       sudoku_1070_jpg.rf.bfc2c12cdc576f563d328cdba34c8147.jpg
+        ¦   ¦       sudoku_1070_jpg.rf.f98ee6259dbe9978030a5f78d79c66f8.jpg
+        ¦   ¦       sudoku_1076_jpg.rf.2937919b08b1629053ec0342b811cd79.jpg
+        ¦   ¦       sudoku_1076_jpg.rf.6aecd7366d9df9ed6b939d11bc6fe8a4.jpg
+        ¦   ¦       sudoku_1076_jpg.rf.92b54b0f8f0ef24ee32e42eaf0534512.jpg
+        ¦   ¦       sudoku_1078_jpg.rf.30c5b7a97f62df4c7bb76410b1d1dd2f.jpg
+        ¦   ¦       sudoku_1078_jpg.rf.b7704602bf58efae1acf59173bfeaffc.jpg
+        ¦   ¦       sudoku_1078_jpg.rf.f6af69cf6dc94bf61fbf0fd0a336a78b.jpg
+        ¦   ¦       sudoku_107_jpg.rf.1d35bd03b0be60ee2443789e76c306c7.jpg
+        ¦   ¦       sudoku_107_jpg.rf.68101e95cb39561bd4239904b1dd58f1.jpg
+        ¦   ¦       sudoku_107_jpg.rf.99029fe6376a0219ac21ea480f1b793d.jpg
+        ¦   ¦       sudoku_1081_jpg.rf.aafe83c59878d8478bf67078e370d430.jpg
+        ¦   ¦       sudoku_1081_jpg.rf.b26e90bb20b49a19fa95249497b34cff.jpg
+        ¦   ¦       sudoku_1081_jpg.rf.e31e18719a8b6beb9eaef48aa4756cea.jpg
+        ¦   ¦       sudoku_1082_jpg.rf.9d17ba635ea40a00ca77c13d381b59c5.jpg
+        ¦   ¦       sudoku_1082_jpg.rf.c3dc1283567360f641f2ec85eadf0fd7.jpg
+        ¦   ¦       sudoku_1082_jpg.rf.d9ac6f2a206064ae895cd879001dff7a.jpg
+        ¦   ¦       sudoku_1083_jpg.rf.046423682b700fe77d9667b655114190.jpg
+        ¦   ¦       sudoku_1083_jpg.rf.4f77d1bb6edae1362da656c8724b9759.jpg
+        ¦   ¦       sudoku_1083_jpg.rf.70a2ffa0fa1c24c9db2d8b240fd01c56.jpg
+        ¦   ¦       sudoku_1087_jpg.rf.a09f629316c183309e530b98fb13e412.jpg
+        ¦   ¦       sudoku_1087_jpg.rf.a6cd9afb02a4b3dd10029735a0031b5e.jpg
+        ¦   ¦       sudoku_1087_jpg.rf.fd4f5e27109b5e3093726b1163e029bd.jpg
+        ¦   ¦       sudoku_112_jpg.rf.7b3dd98606ffd88bff59376e3044fa92.jpg
+        ¦   ¦       sudoku_112_jpg.rf.93f6d474e86addeeaccc6a843cdda660.jpg
+        ¦   ¦       sudoku_112_jpg.rf.b6a6188d5f8d8646cd98d8eaa1202158.jpg
+        ¦   ¦       sudoku_113_jpg.rf.2c2d9b7b08d54da45bd793bbc958395f.jpg
+        ¦   ¦       sudoku_113_jpg.rf.8a19a3735e22fc5c667f60254d0be9a9.jpg
+        ¦   ¦       sudoku_113_jpg.rf.c83dcf8f911d3dbac180f3cefb6e8dbe.jpg
+        ¦   ¦       sudoku_115_jpg.rf.4ce2c2ddd3db9b57c3ba635741b9232f.jpg
+        ¦   ¦       sudoku_115_jpg.rf.77d2d9a1a0db2fcd1d41d6314f3b93d6.jpg
+        ¦   ¦       sudoku_115_jpg.rf.c7d858996e946d4f082ad414dbad05be.jpg
+        ¦   ¦       sudoku_116_jpg.rf.9cd31e302795777d072b4764565567a5.jpg
+        ¦   ¦       sudoku_116_jpg.rf.b7abdacddf19722469e0afb800f62e26.jpg
+        ¦   ¦       sudoku_116_jpg.rf.c5f8ba94bc37c68ed1c80118ec545087.jpg
+        ¦   ¦       sudoku_118_jpg.rf.12a0676ac5f5f5792a8c60c0e5acf466.jpg
+        ¦   ¦       sudoku_118_jpg.rf.507d4ce1164f27139cb70883d187babd.jpg
+        ¦   ¦       sudoku_118_jpg.rf.5312a2551245f25750ef4a7fba1aa4a9.jpg
+        ¦   ¦       sudoku_119_jpg.rf.3e61d86213240b623a05e4ccb2f3fd9e.jpg
+        ¦   ¦       sudoku_119_jpg.rf.aa7504eb09328cc3344005aec3f6c006.jpg
+        ¦   ¦       sudoku_119_jpg.rf.e37686b5def26bec1988f7edbc18987e.jpg
+        ¦   ¦       sudoku_11_jpg.rf.8a73f631efa74cdef794845f23727768.jpg
+        ¦   ¦       sudoku_11_jpg.rf.a20cbbccdf1b69137cce5466c40e4200.jpg
+        ¦   ¦       sudoku_11_jpg.rf.b8fc25a6dfd78e0a62dee7cf29268185.jpg
+        ¦   ¦       sudoku_122_jpg.rf.5500f3a0212bc866d210da906b47521b.jpg
+        ¦   ¦       sudoku_122_jpg.rf.8751fd63f84ade31230b854226c7b32c.jpg
+        ¦   ¦       sudoku_122_jpg.rf.ef98b3fed59f3aeb831c017a1cbcb60f.jpg
+        ¦   ¦       sudoku_129_jpg.rf.52b6a13e7d00951270ab6bed3629720f.jpg
+        ¦   ¦       sudoku_129_jpg.rf.94f3c6364621954c0b5dc98b7fa3e0fd.jpg
+        ¦   ¦       sudoku_129_jpg.rf.d10acaa5db0a779154077664013d9e75.jpg
+        ¦   ¦       sudoku_134_jpg.rf.8c195f146a2b6eadaa1b8f8331f3cad9.jpg
+        ¦   ¦       sudoku_134_jpg.rf.a27105f097366d08a695b9aed71ff4e3.jpg
+        ¦   ¦       sudoku_134_jpg.rf.b16ae24081be54b17d42188124d77960.jpg
+        ¦   ¦       sudoku_136_jpg.rf.a115d62379b88955d919ad3f818dd238.jpg
+        ¦   ¦       sudoku_136_jpg.rf.dfd6d016aab62bcf2ee59f0b60a8dd13.jpg
+        ¦   ¦       sudoku_139_jpg.rf.ec52920dd67dada16e25d341d608f888.jpg
+        ¦   ¦       sudoku_139_jpg.rf.f4d786bbf3dba42fda6afa5d732df3d8.jpg
+        ¦   ¦       sudoku_139_jpg.rf.fd6b747d93dec9155da10cd1b5656efe.jpg
+        ¦   ¦       sudoku_13_jpg.rf.59f25ce6aa5fb1da284aae5425bf043b.jpg
+        ¦   ¦       sudoku_13_jpg.rf.a4456f8143b597d417e7387679d78b55.jpg
+        ¦   ¦       sudoku_13_jpg.rf.ec79b442a43260bf20898ec6c933b941.jpg
+        ¦   ¦       sudoku_145_jpg.rf.49ea0204fd8267b17953926ddcb0286f.jpg
+        ¦   ¦       sudoku_145_jpg.rf.a3c2d18a0d12ffe14dd41473b1e254bb.jpg
+        ¦   ¦       sudoku_145_jpg.rf.c606a34a67df2ee0456e3a5e9658ab3f.jpg
+        ¦   ¦       sudoku_150_jpg.rf.3a2aa93d0fcad767a6bf120807a7fa05.jpg
+        ¦   ¦       sudoku_150_jpg.rf.7b217a8e8ceafb41d0a499eb3463c237.jpg
+        ¦   ¦       sudoku_154_jpg.rf.23adcf2b259d3727687c8cac565cde4f.jpg
+        ¦   ¦       sudoku_154_jpg.rf.2d4acc1d560def06892797c1531ce2bf.jpg
+        ¦   ¦       sudoku_154_jpg.rf.5702ad442253a8f727b346d80f5f0aa3.jpg
+        ¦   ¦       sudoku_155_jpg.rf.3f5206f79d519da85df044c380824ebf.jpg
+        ¦   ¦       sudoku_155_jpg.rf.50001078485f896221f6171f9996d6d4.jpg
+        ¦   ¦       sudoku_155_jpg.rf.f9d89ba83f15560c49959c675d42157a.jpg
+        ¦   ¦       sudoku_157_jpg.rf.3e781ad5760ea2a592acd7ef85ec6e21.jpg
+        ¦   ¦       sudoku_157_jpg.rf.960a730772440344c3bd52035f56f4bf.jpg
+        ¦   ¦       sudoku_157_jpg.rf.9a2d89e25f969602cbf0ff9a4a0de66f.jpg
+        ¦   ¦       sudoku_158_jpg.rf.6534992264dafbd4a4fb95d1f3a628b0.jpg
+        ¦   ¦       sudoku_158_jpg.rf.87e03bad120e83bb7f3c5acb21dbba53.jpg
+        ¦   ¦       sudoku_158_jpg.rf.a846ba1aaa8dba64c11ddea9a169094d.jpg
+        ¦   ¦       sudoku_159_jpg.rf.b65d1b6a5ff2fed936f9c25b42ca74bf.jpg
+        ¦   ¦       sudoku_159_jpg.rf.c9a94d841cd92aad02cb3d36f00a042a.jpg
+        ¦   ¦       sudoku_159_jpg.rf.df83a4b75d05852943df8e3f6aa8e260.jpg
+        ¦   ¦       sudoku_161_jpg.rf.23a23db11eea4bbbba48117c0df3f4f6.jpg
+        ¦   ¦       sudoku_161_jpg.rf.ad5b67b904ee556f46dbb8795e81be76.jpg
+        ¦   ¦       sudoku_161_jpg.rf.c4cf6595736b54bf048792007e036c85.jpg
+        ¦   ¦       sudoku_162_jpg.rf.b686a4b43f3ed3f2abe6e8a19095d744.jpg
+        ¦   ¦       sudoku_162_jpg.rf.bfa752b243ad031522fa4bf77c020410.jpg
+        ¦   ¦       sudoku_162_jpg.rf.dae03a02f48a137e2f97189d0ccffbe5.jpg
+        ¦   ¦       sudoku_163_jpg.rf.8f659168719e939e68d1848dcc777253.jpg
+        ¦   ¦       sudoku_163_jpg.rf.afba356e6a5fb11125a8271869f6df24.jpg
+        ¦   ¦       sudoku_163_jpg.rf.eec357be2521f2e2bf3419d9ac19a2c5.jpg
+        ¦   ¦       sudoku_164_jpg.rf.3abb2d6d8ead7c1971dcd833973e0839.jpg
+        ¦   ¦       sudoku_164_jpg.rf.650d303eee859c25743d2b4b11743952.jpg
+        ¦   ¦       sudoku_164_jpg.rf.65d56fa5d85c0f077806066933af7632.jpg
+        ¦   ¦       sudoku_165_jpg.rf.586cdb04ff169a53b9755a39df861d2a.jpg
+        ¦   ¦       sudoku_165_jpg.rf.5abdc2cbe80b8af1e0d4503de88ddf93.jpg
+        ¦   ¦       sudoku_165_jpg.rf.7f09a5d53f3d20b5385be572b440b83e.jpg
+        ¦   ¦       sudoku_167_jpg.rf.361effbb51536f211359e5837fb41a4d.jpg
+        ¦   ¦       sudoku_167_jpg.rf.37adb18a5ff484a853ff258aab2eb698.jpg
+        ¦   ¦       sudoku_167_jpg.rf.4d9c97a45d5ab499fbb3f075eff51725.jpg
+        ¦   ¦       sudoku_168_jpg.rf.280531661512503faebae07a0044b1d1.jpg
+        ¦   ¦       sudoku_168_jpg.rf.83a2ac7fe81b4df91811b39b48ecca3e.jpg
+        ¦   ¦       sudoku_168_jpg.rf.f6392c5182d6d2dc460e8d8cacf06e0c.jpg
+        ¦   ¦       sudoku_169_jpg.rf.09737171e3761c2dd55b84bb411a3c1c.jpg
+        ¦   ¦       sudoku_169_jpg.rf.1deda4b33d110664e416b3816899335c.jpg
+        ¦   ¦       sudoku_169_jpg.rf.e6e676605dc27d6cbe0cf5e2bfd48515.jpg
+        ¦   ¦       sudoku_16_jpg.rf.01953dec43c5ccf0fbaae2e9b2183bbf.jpg
+        ¦   ¦       sudoku_16_jpg.rf.7d55c86ee4a0f50589e1bc402c88e249.jpg
+        ¦   ¦       sudoku_16_jpg.rf.f54b168d859da903b53338a7164f3db4.jpg
+        ¦   ¦       sudoku_170_jpg.rf.05f43cc88c92c770e93a0a6fe9831f64.jpg
+        ¦   ¦       sudoku_170_jpg.rf.8853c00aa9a4a5dee3d207b2a383f519.jpg
+        ¦   ¦       sudoku_170_jpg.rf.9657fb5773e67e771995927b0d16158a.jpg
+        ¦   ¦       sudoku_172_jpg.rf.6c5bfffed6c8d4ce5cafb203424945dc.jpg
+        ¦   ¦       sudoku_172_jpg.rf.adef7a7635abc808ff8d2b35823fe752.jpg
+        ¦   ¦       sudoku_172_jpg.rf.eaac46beac786c37799299e5ccb00fa1.jpg
+        ¦   ¦       sudoku_174_jpg.rf.3abe6df7cd2cbf76c4bb350b8c4a5d54.jpg
+        ¦   ¦       sudoku_174_jpg.rf.aeebbc90485b48d0d635c4b085e74e65.jpg
+        ¦   ¦       sudoku_174_jpg.rf.d6082eb8b09733e337ded05683978654.jpg
+        ¦   ¦       sudoku_177_jpg.rf.154d2639fb98f1adc9a2592a947a65fe.jpg
+        ¦   ¦       sudoku_177_jpg.rf.cb59e4b00d5d9dedef29648bda9ae7e5.jpg
+        ¦   ¦       sudoku_177_jpg.rf.fe1c510a5119e30d5991372874a5f22f.jpg
+        ¦   ¦       sudoku_178_jpg.rf.05bc30190fccbf0520bf1cda8fca9d4a.jpg
+        ¦   ¦       sudoku_178_jpg.rf.0742680d942cb224b5ea9c38c87afb23.jpg
+        ¦   ¦       sudoku_178_jpg.rf.599a2c3671c3d39fb211ad570c41650f.jpg
+        ¦   ¦       sudoku_183_jpg.rf.4e6799e1e32250dcd77b26a949d2b90e.jpg
+        ¦   ¦       sudoku_183_jpg.rf.6505b703013c88dfa5b3511f5058e660.jpg
+        ¦   ¦       sudoku_183_jpg.rf.9923b9c30e54e8d823a1e1073df4e946.jpg
+        ¦   ¦       sudoku_185_jpg.rf.3bfc957b4129dd7267da4f854de0167f.jpg
+        ¦   ¦       sudoku_185_jpg.rf.4fd2fc780b4d71bd75a23cd71782b60a.jpg
+        ¦   ¦       sudoku_185_jpg.rf.6daf2fe23a3dec6ce1446950e2fa48df.jpg
+        ¦   ¦       sudoku_186_jpg.rf.2b32bc2a99b87af028267e7038728190.jpg
+        ¦   ¦       sudoku_186_jpg.rf.6e451915656aa39800d4f1ede3025e50.jpg
+        ¦   ¦       sudoku_186_jpg.rf.d5d0502a1e1bf931a1cea06075be0a26.jpg
+        ¦   ¦       sudoku_188_jpg.rf.74e0efec4ba177ffcf810340d052d3db.jpg
+        ¦   ¦       sudoku_188_jpg.rf.832c48b1f6cef86b3085d966035fc175.jpg
+        ¦   ¦       sudoku_188_jpg.rf.851ec909ffda77d49d75e151b026e074.jpg
+        ¦   ¦       sudoku_189_jpg.rf.9bc03bcdd75c9922963a1fe4bd26e900.jpg
+        ¦   ¦       sudoku_189_jpg.rf.a4072049592c98121868cb2c3580bd24.jpg
+        ¦   ¦       sudoku_189_jpg.rf.f7ee5907ebd805d6a5a8103c18a4bd7f.jpg
+        ¦   ¦       sudoku_195_jpg.rf.74062321bc351618c42f496f65211739.jpg
+        ¦   ¦       sudoku_195_jpg.rf.bd5534c109b41c34d4acb98145b04e98.jpg
+        ¦   ¦       sudoku_195_jpg.rf.f4a88a6c59c06136426a1a71772e0bcf.jpg
+        ¦   ¦       sudoku_198_jpg.rf.4d775addc3bf059c9d23bce9e47b0b5b.jpg
+        ¦   ¦       sudoku_198_jpg.rf.945969db1f9e9b5318ec7f0cf5f3afe1.jpg
+        ¦   ¦       sudoku_198_jpg.rf.df026715aa971d5837385b4e5c1a33fb.jpg
+        ¦   ¦       sudoku_199_jpg.rf.685cd6ec5122ae8f80815334eb855989.jpg
+        ¦   ¦       sudoku_199_jpg.rf.8c960204dfbb96ca0ff3e8fad80fca84.jpg
+        ¦   ¦       sudoku_19_jpg.rf.09dac6d6ab3705c50cae0534ce99f797.jpg
+        ¦   ¦       sudoku_19_jpg.rf.70a55248c968ddd9c4585e25fac536b2.jpg
+        ¦   ¦       sudoku_19_jpg.rf.968d96281f01935056ad029717af6e23.jpg
+        ¦   ¦       sudoku_1_jpg.rf.1a5cb192a9819d7cf7afa30a59549354.jpg
+        ¦   ¦       sudoku_1_jpg.rf.233fb74f8c0216d2fca129b14e97b8d4.jpg
+        ¦   ¦       sudoku_1_jpg.rf.de223dabfb60e717e33b985143b9270c.jpg
+        ¦   ¦       sudoku_202_jpg.rf.3757542dd0488662a9bb1f66126f7857.jpg
+        ¦   ¦       sudoku_202_jpg.rf.60b24a41e41f4f64a8a50deacdf858dc.jpg
+        ¦   ¦       sudoku_202_jpg.rf.b1c91eb06c0c92aef83ef9db2ad10c0c.jpg
+        ¦   ¦       sudoku_204_jpg.rf.4c552463eadea7c1afdaeee53fa21bcc.jpg
+        ¦   ¦       sudoku_204_jpg.rf.b3fb8545672210aa4174edd8c64eaf70.jpg
+        ¦   ¦       sudoku_204_jpg.rf.bd3c8a72256b408b4fecb7dbcf37b087.jpg
+        ¦   ¦       sudoku_22_jpg.rf.2e65290bb7b2c310a11fe7f13a14cbf2.jpg
+        ¦   ¦       sudoku_22_jpg.rf.615753d8cb073fbbdfb8c31c630cb39d.jpg
+        ¦   ¦       sudoku_22_jpg.rf.c672d1006d2d26f45039043f2750dc0f.jpg
+        ¦   ¦       sudoku_23_jpg.rf.1ab8f17ba3cd822c4f883278b3238ca2.jpg
+        ¦   ¦       sudoku_23_jpg.rf.c512564932cf06371ba132c85ad7257d.jpg
+        ¦   ¦       sudoku_23_jpg.rf.c57e961dbb2aa18e335b8de176b5c2e7.jpg
+        ¦   ¦       sudoku_24_jpg.rf.1e68c9dd51dd0b03771332ca01592fcd.jpg
+        ¦   ¦       sudoku_24_jpg.rf.75e2a65381a7a1320c70d42b341ba309.jpg
+        ¦   ¦       sudoku_24_jpg.rf.a92ad59306318e36a35d7480b925a85d.jpg
+        ¦   ¦       sudoku_26_jpg.rf.56481381b76987516de1da17cae982d1.jpg
+        ¦   ¦       sudoku_26_jpg.rf.7c2ca5db3f2512a582761ac0eac33738.jpg
+        ¦   ¦       sudoku_26_jpg.rf.daa33209954d06004dc8783de44c862b.jpg
+        ¦   ¦       sudoku_27_jpg.rf.55f76530252bdb0f06d8b0bd904c26b1.jpg
+        ¦   ¦       sudoku_27_jpg.rf.7b5385f5811e98bbbcca59061b7e4bec.jpg
+        ¦   ¦       sudoku_27_jpg.rf.a7e015a32304746b2bdc42192f7fd941.jpg
+        ¦   ¦       sudoku_28_jpg.rf.17b17cd39690b3239b71301937a4cbd0.jpg
+        ¦   ¦       sudoku_28_jpg.rf.74b6615f45c35cd88b232a5fc1ab17ea.jpg
+        ¦   ¦       sudoku_28_jpg.rf.fc93ab6a37c0920dff65f84f403c20c2.jpg
+        ¦   ¦       sudoku_2_jpg.rf.281c65a8f1792433687ee0d766c42944.jpg
+        ¦   ¦       sudoku_2_jpg.rf.6f7e46b0ad3024db9af8f905af9ba81e.jpg
+        ¦   ¦       sudoku_2_jpg.rf.7167623a5030c61409958c3979a987f0.jpg
+        ¦   ¦       sudoku_30_jpg.rf.42ee070fcdeb49a5360da4dfe1453247.jpg
+        ¦   ¦       sudoku_30_jpg.rf.7e458536c5186e02e7a86c746b5823ac.jpg
+        ¦   ¦       sudoku_30_jpg.rf.ed3c7d06bd6eb4ec9779547ff594fe6f.jpg
+        ¦   ¦       sudoku_3235_jpg.rf.36e9b66a334e88c60e8e3bf5159dedca.jpg
+        ¦   ¦       sudoku_3235_jpg.rf.85325b88533bf12f1189cf037298babb.jpg
+        ¦   ¦       sudoku_3235_jpg.rf.85b2a990cf5951c4b2fad304136eee9c.jpg
+        ¦   ¦       sudoku_3236_jpg.rf.2f621447e9f5ade85fee23bbaa9cf5bb.jpg
+        ¦   ¦       sudoku_3236_jpg.rf.48f0a657fad8fc6daa62269e2a4208d9.jpg
+        ¦   ¦       sudoku_3236_jpg.rf.e820eb30bb138aad082ca2db4500b174.jpg
+        ¦   ¦       sudoku_3241_jpg.rf.22addd8fae9b0e181bc8a2960f7b4dca.jpg
+        ¦   ¦       sudoku_3241_jpg.rf.315b6b0456eecba95b053a0a2a4715f4.jpg
+        ¦   ¦       sudoku_3241_jpg.rf.e5f823fe60e9eed44a67d13049b69fd0.jpg
+        ¦   ¦       sudoku_3246_jpg.rf.05ce4b4586b4c9cdac80422b4a20876c.jpg
+        ¦   ¦       sudoku_3246_jpg.rf.2de83092700882784cd92b379969ed5a.jpg
+        ¦   ¦       sudoku_3246_jpg.rf.f8a2eb6819d8eaa0863d199cd7a05ee5.jpg
+        ¦   ¦       sudoku_3249_jpg.rf.589169d705b24e8227b5dfc792efca66.jpg
+        ¦   ¦       sudoku_3249_jpg.rf.c0a2b0015af589f6539de43216255461.jpg
+        ¦   ¦       sudoku_3249_jpg.rf.c9cd573d84ff85cce8af5aa0bd690a84.jpg
+        ¦   ¦       sudoku_3253_jpg.rf.7d8b9cc4cf8fddb277695315f8db5188.jpg
+        ¦   ¦       sudoku_3253_jpg.rf.ad7f3a94e2c95b780cd9622cb468b29f.jpg
+        ¦   ¦       sudoku_3253_jpg.rf.ba54ad51ea277cae8806b4330c11848e.jpg
+        ¦   ¦       sudoku_3254_jpg.rf.304dc70be9154a89673d570c9ff559c4.jpg
+        ¦   ¦       sudoku_3254_jpg.rf.6d986813ab42c766dad620d02bbe1b3f.jpg
+        ¦   ¦       sudoku_3254_jpg.rf.c2a504ce396090ec5cb7b785b27a0344.jpg
+        ¦   ¦       sudoku_3255_jpg.rf.7a1cd496b9b109f03bd697fe4c99be91.jpg
+        ¦   ¦       sudoku_3255_jpg.rf.d85976344db5b6311f0472ad2673515f.jpg
+        ¦   ¦       sudoku_3255_jpg.rf.df8e433c4b6d227e87daddf4de33a184.jpg
+        ¦   ¦       sudoku_3261_jpg.rf.07d97c5ea368775c456d541ce257ac51.jpg
+        ¦   ¦       sudoku_3261_jpg.rf.1a366912b3e5871e9cac287f4d3b3b72.jpg
+        ¦   ¦       sudoku_3261_jpg.rf.e6cc6767180bdfe01b5300b4742a46b3.jpg
+        ¦   ¦       sudoku_3264_jpg.rf.22cc9eeaa9c17be0cf858b092025a65d.jpg
+        ¦   ¦       sudoku_3264_jpg.rf.446da260fc96f7d6cc77c717f2d9c354.jpg
+        ¦   ¦       sudoku_3264_jpg.rf.641dc80b4ee410d3839afc92828d99ea.jpg
+        ¦   ¦       sudoku_3265_jpg.rf.5eee9f36753ff4ac6fb3eee231fe1984.jpg
+        ¦   ¦       sudoku_3265_jpg.rf.8d00175c839519a181474befbfa2f8c9.jpg
+        ¦   ¦       sudoku_3265_jpg.rf.9b532f40d28d1ef6e05bd29dec479bd7.jpg
+        ¦   ¦       sudoku_3266_jpg.rf.2e40b56234af9b2ac1e3340b32d19280.jpg
+        ¦   ¦       sudoku_3266_jpg.rf.4d492755892b4faf83c3761fd3670a5d.jpg
+        ¦   ¦       sudoku_3266_jpg.rf.8809cb99e849bd76dbda40e2bbbb3865.jpg
+        ¦   ¦       sudoku_3267_jpg.rf.95878ee451538962c1432720c580280c.jpg
+        ¦   ¦       sudoku_3267_jpg.rf.b7b084cb0f9ac40855729ec2baca52c4.jpg
+        ¦   ¦       sudoku_3267_jpg.rf.e6840c7c0ee763ec16521b924c577c21.jpg
+        ¦   ¦       sudoku_3275_jpg.rf.0651214faacfbd55c63362a68f181123.jpg
+        ¦   ¦       sudoku_3275_jpg.rf.8100687d7245ee2e2cfd3c8a99b93d06.jpg
+        ¦   ¦       sudoku_3275_jpg.rf.cb7522fb2706cb5a2a7eb5f51b66b4b0.jpg
+        ¦   ¦       sudoku_3276_jpg.rf.1b76793def103506b9e530681cbf5b45.jpg
+        ¦   ¦       sudoku_3276_jpg.rf.2c8a91e7ab99a3354b3e717bf32bf515.jpg
+        ¦   ¦       sudoku_3276_jpg.rf.5b45d61565f0d0817f2b238939d2495b.jpg
+        ¦   ¦       sudoku_3277_jpg.rf.06446c52805e70a000a9bb6f574a2a2b.jpg
+        ¦   ¦       sudoku_3277_jpg.rf.3f96e7b6071da30cf879bc145f15594a.jpg
+        ¦   ¦       sudoku_3277_jpg.rf.ee86222cd7f6848c6bafd2741a7358dc.jpg
+        ¦   ¦       sudoku_3278_jpg.rf.0b6616f1d7b53e1f5711f3e0a9737540.jpg
+        ¦   ¦       sudoku_3278_jpg.rf.d480275ea02c738b66d777fab41d1d59.jpg
+        ¦   ¦       sudoku_3278_jpg.rf.d74e00c102c98d7d565e42e6f842a066.jpg
+        ¦   ¦       sudoku_3281_jpg.rf.2ac848879076e6cd303f382c245bcdb6.jpg
+        ¦   ¦       sudoku_3281_jpg.rf.ccd72ca0a217f58249832abf1515c890.jpg
+        ¦   ¦       sudoku_3281_jpg.rf.f043c9b33a36bfb646a950f9a299f33b.jpg
+        ¦   ¦       sudoku_3282_jpg.rf.865d04a45a95904583b2122bb8d8370e.jpg
+        ¦   ¦       sudoku_3282_jpg.rf.b46a19fe08f61649909b66238b071be0.jpg
+        ¦   ¦       sudoku_3282_jpg.rf.e4ebbe9d4e752d3ff66c372ef980f50c.jpg
+        ¦   ¦       sudoku_3283_jpg.rf.140d81117e3364510bcae4ac8c2721f6.jpg
+        ¦   ¦       sudoku_3283_jpg.rf.9b62d1e77efc8d65d3f73e562639bfa9.jpg
+        ¦   ¦       sudoku_3283_jpg.rf.9f0bd0a15b96b94c74083d5a1466b4f3.jpg
+        ¦   ¦       sudoku_3284_jpg.rf.1da9aa5c07ed627e0baadfc7083fe9b6.jpg
+        ¦   ¦       sudoku_3284_jpg.rf.2bd9acfa9e66c596354f50eb02416c1c.jpg
+        ¦   ¦       sudoku_3284_jpg.rf.a7d045752ee75131bc68c35cdf17dc03.jpg
+        ¦   ¦       sudoku_3285_jpg.rf.0b248ebd097bfcfe074ed897ebfdc182.jpg
+        ¦   ¦       sudoku_3285_jpg.rf.65f285956ef8a5b6f1c28d338c1fa1e6.jpg
+        ¦   ¦       sudoku_3285_jpg.rf.6f5229e35a08c86c24e5090a810d649c.jpg
+        ¦   ¦       sudoku_3286_jpg.rf.129d7965adb5a038c91b6699993a7cc6.jpg
+        ¦   ¦       sudoku_3286_jpg.rf.dd655f51af93e9480bae60408ed0153c.jpg
+        ¦   ¦       sudoku_3286_jpg.rf.fe91fa77baffec6e8824b9e704fa064e.jpg
+        ¦   ¦       sudoku_3291_jpg.rf.1115aec3b5197aed8b1d389f1d990846.jpg
+        ¦   ¦       sudoku_3291_jpg.rf.18bcf40b53018aecaed3662520785776.jpg
+        ¦   ¦       sudoku_3291_jpg.rf.f2e7c22c9e78d3ab92eca9bb42d30b72.jpg
+        ¦   ¦       sudoku_3292_jpg.rf.4e3ba071cd4c5c7f061b3e8be2b08469.jpg
+        ¦   ¦       sudoku_3292_jpg.rf.92e524e6c03a5b8c29015e1374ff561c.jpg
+        ¦   ¦       sudoku_3292_jpg.rf.b5267f68e374d55e16f67d1be136c517.jpg
+        ¦   ¦       sudoku_3293_jpg.rf.222ef605fa92be6d5dcfd6af88ad55b0.jpg
+        ¦   ¦       sudoku_3293_jpg.rf.a5f5e8a7886b70da56a0efd59a6e8073.jpg
+        ¦   ¦       sudoku_3293_jpg.rf.f2a7b152d88abc58bce68dd36668c3a0.jpg
+        ¦   ¦       sudoku_3294_jpg.rf.37d741a48a2fcef5edb5f0c0e157c25a.jpg
+        ¦   ¦       sudoku_3294_jpg.rf.4025ea8b1bf8cefe904bdfefcdd61330.jpg
+        ¦   ¦       sudoku_3294_jpg.rf.d3cdd6bc20d895faeb6c7db8b43bf4b4.jpg
+        ¦   ¦       sudoku_3295_jpg.rf.0df07a2a6caf2ea69e8bd408ca4201a4.jpg
+        ¦   ¦       sudoku_3295_jpg.rf.ab2183fa29a3f12856003c7eaa774ff4.jpg
+        ¦   ¦       sudoku_3295_jpg.rf.dc423a719d673a439a89de84837784a2.jpg
+        ¦   ¦       sudoku_3297_jpg.rf.09547e92197210735d3ddd5069c2becf.jpg
+        ¦   ¦       sudoku_3297_jpg.rf.9fdabfcb78f545a7dafb4c7a77f51ebc.jpg
+        ¦   ¦       sudoku_3297_jpg.rf.c3ca216a76aa6f46055f2e0032c7be3d.jpg
+        ¦   ¦       sudoku_3298_jpg.rf.ad93f1a9424e740eeed62dd0066dd1ad.jpg
+        ¦   ¦       sudoku_3298_jpg.rf.d6b58d05a2a802dbb575843f2e8e7e9a.jpg
+        ¦   ¦       sudoku_3298_jpg.rf.f2f61fc052d4ef98314c3fc4904499f5.jpg
+        ¦   ¦       sudoku_3299_jpg.rf.84cb57061212558c9402c1518678320f.jpg
+        ¦   ¦       sudoku_3299_jpg.rf.978cf5b1540dcd56420338bd6aee0309.jpg
+        ¦   ¦       sudoku_3299_jpg.rf.ab0a3feb957d4c63bff0d341eac6f505.jpg
+        ¦   ¦       sudoku_3300_jpg.rf.7c6232178fd37130b30fa8a3d494895e.jpg
+        ¦   ¦       sudoku_3300_jpg.rf.82b13388d62bf1fe71935ad82b97af65.jpg
+        ¦   ¦       sudoku_3300_jpg.rf.b43fc44966b61e0812baba9aea94faf3.jpg
+        ¦   ¦       sudoku_3302_jpg.rf.407b1947e8f3516537d525c73a220d05.jpg
+        ¦   ¦       sudoku_3302_jpg.rf.8dd12c924cc7cb53809f4218e7b66864.jpg
+        ¦   ¦       sudoku_3302_jpg.rf.8eab38de77d429444056eeef83b37822.jpg
+        ¦   ¦       sudoku_3303_jpg.rf.5a59a5f07548796b8a20aa44ecef0ff8.jpg
+        ¦   ¦       sudoku_3303_jpg.rf.97233b55143e8105a0be3155de6fc1d3.jpg
+        ¦   ¦       sudoku_3303_jpg.rf.a1c75ec29a269de43ffa1c31076ade5d.jpg
+        ¦   ¦       sudoku_3304_jpg.rf.4ee19d8005766764859702c5151d9aba.jpg
+        ¦   ¦       sudoku_3304_jpg.rf.615fd5037f0f01708a0aa5ca5f0e15e1.jpg
+        ¦   ¦       sudoku_3304_jpg.rf.bbbaabc47e70047271029afa9b967e08.jpg
+        ¦   ¦       sudoku_3308_jpg.rf.132fe8661640560266ba9006b603e3a4.jpg
+        ¦   ¦       sudoku_3308_jpg.rf.97cef86def584a8cbc55d1f3ce017d86.jpg
+        ¦   ¦       sudoku_3308_jpg.rf.d86a5b14af7187524923e03003502fd6.jpg
+        ¦   ¦       sudoku_3311_jpg.rf.6f440d748bed0ea67834907fb64533e3.jpg
+        ¦   ¦       sudoku_3311_jpg.rf.bee925b0049808f5861561edb38b7661.jpg
+        ¦   ¦       sudoku_3311_jpg.rf.cbd4995527b16ec675f4f963d6aaa980.jpg
+        ¦   ¦       sudoku_3312_jpg.rf.284328bb8cbdd993af2d7e993fb1e847.jpg
+        ¦   ¦       sudoku_3312_jpg.rf.7068b1a4edf8184ded574573f2e4f6d0.jpg
+        ¦   ¦       sudoku_3312_jpg.rf.d578970192b0eac5a3c9037f770ae63c.jpg
+        ¦   ¦       sudoku_3313_jpg.rf.342080088919efd05e3ae34868691f9e.jpg
+        ¦   ¦       sudoku_3313_jpg.rf.b03153b32467add6932e39fb6f47ea26.jpg
+        ¦   ¦       sudoku_3313_jpg.rf.d10a906f33f756be35bb914c6f845a45.jpg
+        ¦   ¦       sudoku_36_jpg.rf.36177b66d2694e0d9b09bda9ba299b39.jpg
+        ¦   ¦       sudoku_36_jpg.rf.8ca8eaab5511e6219737af0c3fb15ca0.jpg
+        ¦   ¦       sudoku_36_jpg.rf.c250d50266b6c8ef6ea2286a9d329ff4.jpg
+        ¦   ¦       sudoku_37_jpg.rf.754a38dcde12c8ad864bed0f67d1df20.jpg
+        ¦   ¦       sudoku_37_jpg.rf.d1e72bc42eafb17e87cc7b5ec31bda66.jpg
+        ¦   ¦       sudoku_37_jpg.rf.df9d0d666195230116f7a582e914d26a.jpg
+        ¦   ¦       sudoku_40_jpg.rf.212f29a8f8fe6874c9a09a85bf327b28.jpg
+        ¦   ¦       sudoku_40_jpg.rf.84ceba631e71eeef52031c4377e6ac50.jpg
+        ¦   ¦       sudoku_40_jpg.rf.e6aaec528e143a6afa7997791dcfa77a.jpg
+        ¦   ¦       sudoku_41_jpg.rf.534544b1f09bd3eb548c6bd0d210b390.jpg
+        ¦   ¦       sudoku_41_jpg.rf.8b114e1858a6fe44c2c4dc8aab1abd8d.jpg
+        ¦   ¦       sudoku_41_jpg.rf.d0d3c8195038ebb40a090db005e8abb0.jpg
+        ¦   ¦       sudoku_44_jpg.rf.07b7a2c377467d86cdc3f8d62747ac54.jpg
+        ¦   ¦       sudoku_44_jpg.rf.b9a66d64b86a9a7bbbc8f64ead7168fd.jpg
+        ¦   ¦       sudoku_58_jpg.rf.20b50d85ebb6636f44102cc7e40dd5eb.jpg
+        ¦   ¦       sudoku_58_jpg.rf.269b6b3bc4494678dfd3d877d1ca6d73.jpg
+        ¦   ¦       sudoku_58_jpg.rf.5e170fb4ef95c597904836542dfb2d8d.jpg
+        ¦   ¦       sudoku_61_jpg.rf.81b93caba5f8e25e2d85648944dc6e09.jpg
+        ¦   ¦       sudoku_61_jpg.rf.cad09d4ce619e7ccc051511cee2cb12b.jpg
+        ¦   ¦       sudoku_61_jpg.rf.e6764715e9036f9d5dfffd5ffebc700f.jpg
+        ¦   ¦       sudoku_65_jpg.rf.068498ee2e7fc1d6f012408fbc3c5c4b.jpg
+        ¦   ¦       sudoku_65_jpg.rf.746a17d094c85051c7e70e0ca3b5d78d.jpg
+        ¦   ¦       sudoku_65_jpg.rf.961597b606096757c82edaee07759fba.jpg
+        ¦   ¦       sudoku_72_jpg.rf.09979e5dfc0530ae4aab0a5d817b8269.jpg
+        ¦   ¦       sudoku_72_jpg.rf.8bb7eaed72c5ab377eec9b89d3ee61f8.jpg
+        ¦   ¦       sudoku_72_jpg.rf.ac982dcffdeaafb082e60f1757904baf.jpg
+        ¦   ¦       sudoku_74_jpg.rf.8427f8eb0bac77b5c3c4b6f5cbe8ba0f.jpg
+        ¦   ¦       sudoku_74_jpg.rf.dc315a4add8ba396a3faf8f277ef5d99.jpg
+        ¦   ¦       sudoku_74_jpg.rf.e292c2f139a92759e77de7cb9b2f87fe.jpg
+        ¦   ¦       sudoku_77_jpg.rf.081776830bda96c6c4ec380fa613685f.jpg
+        ¦   ¦       sudoku_77_jpg.rf.a3888d2136f6d41ea20a49f46464a666.jpg
+        ¦   ¦       sudoku_77_jpg.rf.dd511309e634170fdd1e43d6e6f7ae55.jpg
+        ¦   ¦       sudoku_79_jpg.rf.3815d779e1e0e326e8ab2fef6cbd8665.jpg
+        ¦   ¦       sudoku_79_jpg.rf.a047b3666846827faca37084a717355d.jpg
+        ¦   ¦       sudoku_79_jpg.rf.f208f0198e333d290694f9737f4cc740.jpg
+        ¦   ¦       sudoku_80_jpg.rf.8444045fb7e5ac58f637c63e8bbc64ba.jpg
+        ¦   ¦       sudoku_80_jpg.rf.8fed16c49d25dfa9e76b6d8efec21500.jpg
+        ¦   ¦       sudoku_80_jpg.rf.abb6e9bafde80006763d7dbd6c402a25.jpg
+        ¦   ¦       sudoku_81_jpg.rf.0bfc97ca0e0f39b28fcf3579c86d370e.jpg
+        ¦   ¦       sudoku_81_jpg.rf.25e472ee5fd10a57126377330e4a4e10.jpg
+        ¦   ¦       sudoku_81_jpg.rf.8d43d2e13117a421776be98b5d4c98df.jpg
+        ¦   ¦       sudoku_82_jpg.rf.c0141b1c80dbaba059bb1366ba98b96a.jpg
+        ¦   ¦       sudoku_82_jpg.rf.d17c5624267c0ff4ac4e0fc9dac22714.jpg
+        ¦   ¦       sudoku_82_jpg.rf.e5500b18d66d012c4725130528a65791.jpg
+        ¦   ¦       sudoku_84_jpg.rf.3f2bc92973409e110838a97ae91ed8c5.jpg
+        ¦   ¦       sudoku_84_jpg.rf.773bdb818fb5c57853393b3c86b73488.jpg
+        ¦   ¦       sudoku_84_jpg.rf.9e76d7a28730e16767960bf9cb4a8e42.jpg
+        ¦   ¦       sudoku_8_jpg.rf.121409863fd5da61047c5ed65ee0c8c9.jpg
+        ¦   ¦       sudoku_8_jpg.rf.d8d71cde25f5bb73c1da6dd004b56c96.jpg
+        ¦   ¦       sudoku_8_jpg.rf.ffcc21b3a6eb3c83d1641049f32c53b3.jpg
+        ¦   ¦       sudoku_90_jpg.rf.50be2bd108c65fb059507171de1263eb.jpg
+        ¦   ¦       sudoku_90_jpg.rf.53561f1e280be34a58266c53a52a4898.jpg
+        ¦   ¦       sudoku_90_jpg.rf.d216eaeaee2bb20f3a658063435f0845.jpg
+        ¦   ¦       sudoku_93_jpg.rf.34b05f6c2972983766eae984c0a16fe5.jpg
+        ¦   ¦       sudoku_93_jpg.rf.36d1f7e4c6ee5f6ed7b38eaa775f2f86.jpg
+        ¦   ¦       sudoku_93_jpg.rf.b3bab97f8cf2f3d3501fc775a58d4880.jpg
+        ¦   ¦       sudoku_94_jpg.rf.09a70101a11a54f53f9ef280ab0445f5.jpg
+        ¦   ¦       sudoku_94_jpg.rf.d1a91c008b9c6572da85b2764d69215f.jpg
+        ¦   ¦       sudoku_94_jpg.rf.df5cb2ad2161a2fdc734b7c719d1a08f.jpg
+        ¦   ¦       sudoku_95_jpg.rf.4abc02a19a5d21ebd274500e1dad0e0c.jpg
+        ¦   ¦       sudoku_95_jpg.rf.546ddd30cc68707b275d0469ffe201d5.jpg
+        ¦   ¦       sudoku_95_jpg.rf.fd4e1b82c96639c8e47a71c7ff7eccdd.jpg
+        ¦   ¦       sudoku_96_jpg.rf.26eeca664c9253d1555f7509fb42ccf3.jpg
+        ¦   ¦       sudoku_96_jpg.rf.49fe28074e2845498aae44fffe11eced.jpg
+        ¦   ¦       sudoku_96_jpg.rf.aa749b7ce36a0520aa3164fe8e3ed831.jpg
+        ¦   ¦       sudoku_97_jpg.rf.28b4e8224799271cbb48ac372c90866c.jpg
+        ¦   ¦       sudoku_97_jpg.rf.2f414ef5faa77567bfd4733b9a6457c5.jpg
+        ¦   ¦       sudoku_97_jpg.rf.bf11fda07bd0ba1430d2bedadd07e940.jpg
+        ¦   ¦       sudoku_98_jpg.rf.0b527c5776a1cf953bf02b8361b52a2b.jpg
+        ¦   ¦       sudoku_98_jpg.rf.1885ad52a4134f7925b490a06daed626.jpg
+        ¦   ¦       sudoku_98_jpg.rf.c59663518f1a4fb5207dc83512ca5757.jpg
+        ¦   ¦       sudoku_99_jpg.rf.0a189771787596995293013cec69aeaf.jpg
+        ¦   ¦       sudoku_99_jpg.rf.af4c0cc9893ebd21ffee551f2c1a559d.jpg
+        ¦   ¦       sudoku_99_jpg.rf.b305dd21bf05a8e04a742c6ab0b1a6fb.jpg
+        ¦   ¦       sudoku_9_jpg.rf.68f3f057f7cc32a209499c135f15f20e.jpg
+        ¦   ¦       sudoku_9_jpg.rf.98fc201d2696f07c1be41fee89e9cd69.jpg
+        ¦   ¦       sudoku_9_jpg.rf.be34ca4ba1e2fbee0780f5c70afc39ec.jpg
+        ¦   ¦       
+        ¦   +---labels
+        ¦           sudoku_1001_jpg.rf.45ed2c56bc6d5ec18e687f814ff11599.txt
+        ¦           sudoku_1001_jpg.rf.dc9e7b5f4288a2ba6d38fdc4a586d3ac.txt
+        ¦           sudoku_1001_jpg.rf.ea5688bb22880d83e4af8bd29348e593.txt
+        ¦           sudoku_1003_jpg.rf.0e510f78e811c957f8b13f20fbffb887.txt
+        ¦           sudoku_1003_jpg.rf.b07536f51e1e3ead4b2a098cfa5e81bc.txt
+        ¦           sudoku_1003_jpg.rf.deb346814bb750314104a87f3453c6a7.txt
+        ¦           sudoku_1006_jpg.rf.3b1bcb88cd13b98d3d8d9661ba7440ee.txt
+        ¦           sudoku_1006_jpg.rf.8ecc0c74f09f18a6ce78cb6e097a45c4.txt
+        ¦           sudoku_1006_jpg.rf.dd9d849d643716ad2b12a23168a7194d.txt
+        ¦           sudoku_1008_jpg.rf.1cca13b3be6598b107fe4ca7f7614e2f.txt
+        ¦           sudoku_1008_jpg.rf.6520b63d79e361ae34d59f41cce8152c.txt
+        ¦           sudoku_1008_jpg.rf.f4661800b70705d42ab5848bd07289b1.txt
+        ¦           sudoku_100_jpg.rf.b1a4fc4af2a6fc6270adecde26f7ff45.txt
+        ¦           sudoku_100_jpg.rf.ca2d13227e741d392cda20b79cf73903.txt
+        ¦           sudoku_100_jpg.rf.dfee3fe58d13a8fdf04ead5d1bc99c0e.txt
+        ¦           sudoku_1011_jpg.rf.46571ec019a32f0a288dc6ee1c4c702a.txt
+        ¦           sudoku_1011_jpg.rf.b6d3486d3f25c003f8de2a7924f7045a.txt
+        ¦           sudoku_1011_jpg.rf.c711b89d747d3205eeafb344524655fc.txt
+        ¦           sudoku_101_jpg.rf.4b98ce080831cd7842984e312586726f.txt
+        ¦           sudoku_101_jpg.rf.861747a30dc6052a0a8e074d6d0de46f.txt
+        ¦           sudoku_101_jpg.rf.dc98572da63bb5b3770ff7551fb69163.txt
+        ¦           sudoku_1020_jpg.rf.09cf30adf616fd8500897fbf24ddd84b.txt
+        ¦           sudoku_1020_jpg.rf.0c81b3230b80395c2c3c8e8c45b692fb.txt
+        ¦           sudoku_1020_jpg.rf.c27260b0da422aa50653b47dfcc78bf6.txt
+        ¦           sudoku_1022_jpg.rf.231c7c2b269b92e98a7f85eebe7bb55a.txt
+        ¦           sudoku_1022_jpg.rf.b4c1c0c92157c2fa69fc56e188a460f8.txt
+        ¦           sudoku_1022_jpg.rf.cb775a89c8bf4cd0432eded67a994782.txt
+        ¦           sudoku_102_jpg.rf.44178d5d2195e08d4de6f172bfebdb96.txt
+        ¦           sudoku_102_jpg.rf.6ee85e759657c75ef6b38e9ef93bb95a.txt
+        ¦           sudoku_102_jpg.rf.ad8bf564f91af742e059e1742da04dbe.txt
+        ¦           sudoku_1036_jpg.rf.03ec0e91f9f4ec8f01516bde41641539.txt
+        ¦           sudoku_1036_jpg.rf.a8d3cd23c93be7dd64ce8e8afe16f220.txt
+        ¦           sudoku_1036_jpg.rf.bd12fd8b541acb65c158b1529c2f76e2.txt
+        ¦           sudoku_1038_jpg.rf.135ec794bf4525be6b9b042e52e23f79.txt
+        ¦           sudoku_1038_jpg.rf.3c4a72d385d7719e6408176d749b8970.txt
+        ¦           sudoku_1038_jpg.rf.fd7f44e07653a7bdcc2ae7f4193b0b63.txt
+        ¦           sudoku_1039_jpg.rf.12cb3ca4368e77389b4521f916fd0f31.txt
+        ¦           sudoku_1039_jpg.rf.17c2ddf09d13cb977ef0cc10725b5bbd.txt
+        ¦           sudoku_1039_jpg.rf.65442fb36ba47769b70ba7acd1fb87a1.txt
+        ¦           sudoku_1040_jpg.rf.106bc6a491dd504d193853ab7d4f222b.txt
+        ¦           sudoku_1040_jpg.rf.b9d432ec6e94b045632f0f39d1fc0c09.txt
+        ¦           sudoku_1040_jpg.rf.c73164c31adfa2355d53adc492c89b28.txt
+        ¦           sudoku_1043_jpg.rf.418eb90493303889f0e3b6bda99c3a49.txt
+        ¦           sudoku_1043_jpg.rf.5f34600cde47f1c70e61d388da5ac6ef.txt
+        ¦           sudoku_1043_jpg.rf.f75ad8ff154d307a1cc4e7be981e71d9.txt
+        ¦           sudoku_1045_jpg.rf.56f82bcae401389ad0bad86d9ecd7dd8.txt
+        ¦           sudoku_1045_jpg.rf.5a3b397e6f357e2656f33b338c55461f.txt
+        ¦           sudoku_1045_jpg.rf.d6d6fbf732167f7fed9f59ca1c58a802.txt
+        ¦           sudoku_1049_jpg.rf.4027c06d43955389dad212b6fc1a4965.txt
+        ¦           sudoku_1049_jpg.rf.a4ed2afdbfea1b0fb01f95f0ef61a177.txt
+        ¦           sudoku_1049_jpg.rf.d7264392dcbf92ebe5da8a8be91a84b4.txt
+        ¦           sudoku_1050_jpg.rf.596e53f22447791bcf4406a6df48c55f.txt
+        ¦           sudoku_1050_jpg.rf.b4e6e1a7d72378c0d834bc2d8ca1f2fd.txt
+        ¦           sudoku_1050_jpg.rf.d4534f648734721290d4c9cb1318ac7b.txt
+        ¦           sudoku_105_jpg.rf.7b79b85a4de6abda6feccd2964a2a6be.txt
+        ¦           sudoku_105_jpg.rf.ad4ad2dbab34f8cc9271c9b2a55db7c8.txt
+        ¦           sudoku_105_jpg.rf.ad7033b57b22071d3ed7110aa535630c.txt
+        ¦           sudoku_1062_jpg.rf.0407ef2095f128acea628f5549a2c687.txt
+        ¦           sudoku_1062_jpg.rf.c4a86dc7fee6884677d0e9b3c7845a08.txt
+        ¦           sudoku_1062_jpg.rf.e7f56209e02ccb6059e8171c84579ffc.txt
+        ¦           sudoku_1066_jpg.rf.109de61dc6eca13d633cbf3af78292b5.txt
+        ¦           sudoku_1066_jpg.rf.445f614f3a0d39017903885817f2f493.txt
+        ¦           sudoku_1066_jpg.rf.789aa37d877b3f7fd56c9fa90e73db27.txt
+        ¦           sudoku_1067_jpg.rf.152d836052404eb2c356718e9aa1b523.txt
+        ¦           sudoku_1067_jpg.rf.42c568fa5bf032ddcbe23e7d176f16de.txt
+        ¦           sudoku_1067_jpg.rf.bfb5b14f65708508d3928fbd57639aef.txt
+        ¦           sudoku_1070_jpg.rf.69c1f06685de237d333ce8422f95e854.txt
+        ¦           sudoku_1070_jpg.rf.bfc2c12cdc576f563d328cdba34c8147.txt
+        ¦           sudoku_1070_jpg.rf.f98ee6259dbe9978030a5f78d79c66f8.txt
+        ¦           sudoku_1076_jpg.rf.2937919b08b1629053ec0342b811cd79.txt
+        ¦           sudoku_1076_jpg.rf.6aecd7366d9df9ed6b939d11bc6fe8a4.txt
+        ¦           sudoku_1076_jpg.rf.92b54b0f8f0ef24ee32e42eaf0534512.txt
+        ¦           sudoku_1078_jpg.rf.30c5b7a97f62df4c7bb76410b1d1dd2f.txt
+        ¦           sudoku_1078_jpg.rf.b7704602bf58efae1acf59173bfeaffc.txt
+        ¦           sudoku_1078_jpg.rf.f6af69cf6dc94bf61fbf0fd0a336a78b.txt
+        ¦           sudoku_107_jpg.rf.1d35bd03b0be60ee2443789e76c306c7.txt
+        ¦           sudoku_107_jpg.rf.68101e95cb39561bd4239904b1dd58f1.txt
+        ¦           sudoku_107_jpg.rf.99029fe6376a0219ac21ea480f1b793d.txt
+        ¦           sudoku_1081_jpg.rf.aafe83c59878d8478bf67078e370d430.txt
+        ¦           sudoku_1081_jpg.rf.b26e90bb20b49a19fa95249497b34cff.txt
+        ¦           sudoku_1081_jpg.rf.e31e18719a8b6beb9eaef48aa4756cea.txt
+        ¦           sudoku_1082_jpg.rf.9d17ba635ea40a00ca77c13d381b59c5.txt
+        ¦           sudoku_1082_jpg.rf.c3dc1283567360f641f2ec85eadf0fd7.txt
+        ¦           sudoku_1082_jpg.rf.d9ac6f2a206064ae895cd879001dff7a.txt
+        ¦           sudoku_1083_jpg.rf.046423682b700fe77d9667b655114190.txt
+        ¦           sudoku_1083_jpg.rf.4f77d1bb6edae1362da656c8724b9759.txt
+        ¦           sudoku_1083_jpg.rf.70a2ffa0fa1c24c9db2d8b240fd01c56.txt
+        ¦           sudoku_1087_jpg.rf.a09f629316c183309e530b98fb13e412.txt
+        ¦           sudoku_1087_jpg.rf.a6cd9afb02a4b3dd10029735a0031b5e.txt
+        ¦           sudoku_1087_jpg.rf.fd4f5e27109b5e3093726b1163e029bd.txt
+        ¦           sudoku_112_jpg.rf.7b3dd98606ffd88bff59376e3044fa92.txt
+        ¦           sudoku_112_jpg.rf.93f6d474e86addeeaccc6a843cdda660.txt
+        ¦           sudoku_112_jpg.rf.b6a6188d5f8d8646cd98d8eaa1202158.txt
+        ¦           sudoku_113_jpg.rf.2c2d9b7b08d54da45bd793bbc958395f.txt
+        ¦           sudoku_113_jpg.rf.8a19a3735e22fc5c667f60254d0be9a9.txt
+        ¦           sudoku_113_jpg.rf.c83dcf8f911d3dbac180f3cefb6e8dbe.txt
+        ¦           sudoku_115_jpg.rf.4ce2c2ddd3db9b57c3ba635741b9232f.txt
+        ¦           sudoku_115_jpg.rf.77d2d9a1a0db2fcd1d41d6314f3b93d6.txt
+        ¦           sudoku_115_jpg.rf.c7d858996e946d4f082ad414dbad05be.txt
+        ¦           sudoku_116_jpg.rf.9cd31e302795777d072b4764565567a5.txt
+        ¦           sudoku_116_jpg.rf.b7abdacddf19722469e0afb800f62e26.txt
+        ¦           sudoku_116_jpg.rf.c5f8ba94bc37c68ed1c80118ec545087.txt
+        ¦           sudoku_118_jpg.rf.12a0676ac5f5f5792a8c60c0e5acf466.txt
+        ¦           sudoku_118_jpg.rf.507d4ce1164f27139cb70883d187babd.txt
+        ¦           sudoku_118_jpg.rf.5312a2551245f25750ef4a7fba1aa4a9.txt
+        ¦           sudoku_119_jpg.rf.3e61d86213240b623a05e4ccb2f3fd9e.txt
+        ¦           sudoku_119_jpg.rf.aa7504eb09328cc3344005aec3f6c006.txt
+        ¦           sudoku_119_jpg.rf.e37686b5def26bec1988f7edbc18987e.txt
+        ¦           sudoku_11_jpg.rf.8a73f631efa74cdef794845f23727768.txt
+        ¦           sudoku_11_jpg.rf.a20cbbccdf1b69137cce5466c40e4200.txt
+        ¦           sudoku_11_jpg.rf.b8fc25a6dfd78e0a62dee7cf29268185.txt
+        ¦           sudoku_122_jpg.rf.5500f3a0212bc866d210da906b47521b.txt
+        ¦           sudoku_122_jpg.rf.8751fd63f84ade31230b854226c7b32c.txt
+        ¦           sudoku_122_jpg.rf.ef98b3fed59f3aeb831c017a1cbcb60f.txt
+        ¦           sudoku_129_jpg.rf.52b6a13e7d00951270ab6bed3629720f.txt
+        ¦           sudoku_129_jpg.rf.94f3c6364621954c0b5dc98b7fa3e0fd.txt
+        ¦           sudoku_129_jpg.rf.d10acaa5db0a779154077664013d9e75.txt
+        ¦           sudoku_134_jpg.rf.8c195f146a2b6eadaa1b8f8331f3cad9.txt
+        ¦           sudoku_134_jpg.rf.a27105f097366d08a695b9aed71ff4e3.txt
+        ¦           sudoku_134_jpg.rf.b16ae24081be54b17d42188124d77960.txt
+        ¦           sudoku_136_jpg.rf.a115d62379b88955d919ad3f818dd238.txt
+        ¦           sudoku_136_jpg.rf.dfd6d016aab62bcf2ee59f0b60a8dd13.txt
+        ¦           sudoku_139_jpg.rf.ec52920dd67dada16e25d341d608f888.txt
+        ¦           sudoku_139_jpg.rf.f4d786bbf3dba42fda6afa5d732df3d8.txt
+        ¦           sudoku_139_jpg.rf.fd6b747d93dec9155da10cd1b5656efe.txt
+        ¦           sudoku_13_jpg.rf.59f25ce6aa5fb1da284aae5425bf043b.txt
+        ¦           sudoku_13_jpg.rf.a4456f8143b597d417e7387679d78b55.txt
+        ¦           sudoku_13_jpg.rf.ec79b442a43260bf20898ec6c933b941.txt
+        ¦           sudoku_145_jpg.rf.49ea0204fd8267b17953926ddcb0286f.txt
+        ¦           sudoku_145_jpg.rf.a3c2d18a0d12ffe14dd41473b1e254bb.txt
+        ¦           sudoku_145_jpg.rf.c606a34a67df2ee0456e3a5e9658ab3f.txt
+        ¦           sudoku_150_jpg.rf.3a2aa93d0fcad767a6bf120807a7fa05.txt
+        ¦           sudoku_150_jpg.rf.7b217a8e8ceafb41d0a499eb3463c237.txt
+        ¦           sudoku_154_jpg.rf.23adcf2b259d3727687c8cac565cde4f.txt
+        ¦           sudoku_154_jpg.rf.2d4acc1d560def06892797c1531ce2bf.txt
+        ¦           sudoku_154_jpg.rf.5702ad442253a8f727b346d80f5f0aa3.txt
+        ¦           sudoku_155_jpg.rf.3f5206f79d519da85df044c380824ebf.txt
+        ¦           sudoku_155_jpg.rf.50001078485f896221f6171f9996d6d4.txt
+        ¦           sudoku_155_jpg.rf.f9d89ba83f15560c49959c675d42157a.txt
+        ¦           sudoku_157_jpg.rf.3e781ad5760ea2a592acd7ef85ec6e21.txt
+        ¦           sudoku_157_jpg.rf.960a730772440344c3bd52035f56f4bf.txt
+        ¦           sudoku_157_jpg.rf.9a2d89e25f969602cbf0ff9a4a0de66f.txt
+        ¦           sudoku_158_jpg.rf.6534992264dafbd4a4fb95d1f3a628b0.txt
+        ¦           sudoku_158_jpg.rf.87e03bad120e83bb7f3c5acb21dbba53.txt
+        ¦           sudoku_158_jpg.rf.a846ba1aaa8dba64c11ddea9a169094d.txt
+        ¦           sudoku_159_jpg.rf.b65d1b6a5ff2fed936f9c25b42ca74bf.txt
+        ¦           sudoku_159_jpg.rf.c9a94d841cd92aad02cb3d36f00a042a.txt
+        ¦           sudoku_159_jpg.rf.df83a4b75d05852943df8e3f6aa8e260.txt
+        ¦           sudoku_161_jpg.rf.23a23db11eea4bbbba48117c0df3f4f6.txt
+        ¦           sudoku_161_jpg.rf.ad5b67b904ee556f46dbb8795e81be76.txt
+        ¦           sudoku_161_jpg.rf.c4cf6595736b54bf048792007e036c85.txt
+        ¦           sudoku_162_jpg.rf.b686a4b43f3ed3f2abe6e8a19095d744.txt
+        ¦           sudoku_162_jpg.rf.bfa752b243ad031522fa4bf77c020410.txt
+        ¦           sudoku_162_jpg.rf.dae03a02f48a137e2f97189d0ccffbe5.txt
+        ¦           sudoku_163_jpg.rf.8f659168719e939e68d1848dcc777253.txt
+        ¦           sudoku_163_jpg.rf.afba356e6a5fb11125a8271869f6df24.txt
+        ¦           sudoku_163_jpg.rf.eec357be2521f2e2bf3419d9ac19a2c5.txt
+        ¦           sudoku_164_jpg.rf.3abb2d6d8ead7c1971dcd833973e0839.txt
+        ¦           sudoku_164_jpg.rf.650d303eee859c25743d2b4b11743952.txt
+        ¦           sudoku_164_jpg.rf.65d56fa5d85c0f077806066933af7632.txt
+        ¦           sudoku_165_jpg.rf.586cdb04ff169a53b9755a39df861d2a.txt
+        ¦           sudoku_165_jpg.rf.5abdc2cbe80b8af1e0d4503de88ddf93.txt
+        ¦           sudoku_165_jpg.rf.7f09a5d53f3d20b5385be572b440b83e.txt
+        ¦           sudoku_167_jpg.rf.361effbb51536f211359e5837fb41a4d.txt
+        ¦           sudoku_167_jpg.rf.37adb18a5ff484a853ff258aab2eb698.txt
+        ¦           sudoku_167_jpg.rf.4d9c97a45d5ab499fbb3f075eff51725.txt
+        ¦           sudoku_168_jpg.rf.280531661512503faebae07a0044b1d1.txt
+        ¦           sudoku_168_jpg.rf.83a2ac7fe81b4df91811b39b48ecca3e.txt
+        ¦           sudoku_168_jpg.rf.f6392c5182d6d2dc460e8d8cacf06e0c.txt
+        ¦           sudoku_169_jpg.rf.09737171e3761c2dd55b84bb411a3c1c.txt
+        ¦           sudoku_169_jpg.rf.1deda4b33d110664e416b3816899335c.txt
+        ¦           sudoku_169_jpg.rf.e6e676605dc27d6cbe0cf5e2bfd48515.txt
+        ¦           sudoku_16_jpg.rf.01953dec43c5ccf0fbaae2e9b2183bbf.txt
+        ¦           sudoku_16_jpg.rf.7d55c86ee4a0f50589e1bc402c88e249.txt
+        ¦           sudoku_16_jpg.rf.f54b168d859da903b53338a7164f3db4.txt
+        ¦           sudoku_170_jpg.rf.05f43cc88c92c770e93a0a6fe9831f64.txt
+        ¦           sudoku_170_jpg.rf.8853c00aa9a4a5dee3d207b2a383f519.txt
+        ¦           sudoku_170_jpg.rf.9657fb5773e67e771995927b0d16158a.txt
+        ¦           sudoku_172_jpg.rf.6c5bfffed6c8d4ce5cafb203424945dc.txt
+        ¦           sudoku_172_jpg.rf.adef7a7635abc808ff8d2b35823fe752.txt
+        ¦           sudoku_172_jpg.rf.eaac46beac786c37799299e5ccb00fa1.txt
+        ¦           sudoku_174_jpg.rf.3abe6df7cd2cbf76c4bb350b8c4a5d54.txt
+        ¦           sudoku_174_jpg.rf.aeebbc90485b48d0d635c4b085e74e65.txt
+        ¦           sudoku_174_jpg.rf.d6082eb8b09733e337ded05683978654.txt
+        ¦           sudoku_177_jpg.rf.154d2639fb98f1adc9a2592a947a65fe.txt
+        ¦           sudoku_177_jpg.rf.cb59e4b00d5d9dedef29648bda9ae7e5.txt
+        ¦           sudoku_177_jpg.rf.fe1c510a5119e30d5991372874a5f22f.txt
+        ¦           sudoku_178_jpg.rf.05bc30190fccbf0520bf1cda8fca9d4a.txt
+        ¦           sudoku_178_jpg.rf.0742680d942cb224b5ea9c38c87afb23.txt
+        ¦           sudoku_178_jpg.rf.599a2c3671c3d39fb211ad570c41650f.txt
+        ¦           sudoku_183_jpg.rf.4e6799e1e32250dcd77b26a949d2b90e.txt
+        ¦           sudoku_183_jpg.rf.6505b703013c88dfa5b3511f5058e660.txt
+        ¦           sudoku_183_jpg.rf.9923b9c30e54e8d823a1e1073df4e946.txt
+        ¦           sudoku_185_jpg.rf.3bfc957b4129dd7267da4f854de0167f.txt
+        ¦           sudoku_185_jpg.rf.4fd2fc780b4d71bd75a23cd71782b60a.txt
+        ¦           sudoku_185_jpg.rf.6daf2fe23a3dec6ce1446950e2fa48df.txt
+        ¦           sudoku_186_jpg.rf.2b32bc2a99b87af028267e7038728190.txt
+        ¦           sudoku_186_jpg.rf.6e451915656aa39800d4f1ede3025e50.txt
+        ¦           sudoku_186_jpg.rf.d5d0502a1e1bf931a1cea06075be0a26.txt
+        ¦           sudoku_188_jpg.rf.74e0efec4ba177ffcf810340d052d3db.txt
+        ¦           sudoku_188_jpg.rf.832c48b1f6cef86b3085d966035fc175.txt
+        ¦           sudoku_188_jpg.rf.851ec909ffda77d49d75e151b026e074.txt
+        ¦           sudoku_189_jpg.rf.9bc03bcdd75c9922963a1fe4bd26e900.txt
+        ¦           sudoku_189_jpg.rf.a4072049592c98121868cb2c3580bd24.txt
+        ¦           sudoku_189_jpg.rf.f7ee5907ebd805d6a5a8103c18a4bd7f.txt
+        ¦           sudoku_195_jpg.rf.74062321bc351618c42f496f65211739.txt
+        ¦           sudoku_195_jpg.rf.bd5534c109b41c34d4acb98145b04e98.txt
+        ¦           sudoku_195_jpg.rf.f4a88a6c59c06136426a1a71772e0bcf.txt
+        ¦           sudoku_198_jpg.rf.4d775addc3bf059c9d23bce9e47b0b5b.txt
+        ¦           sudoku_198_jpg.rf.945969db1f9e9b5318ec7f0cf5f3afe1.txt
+        ¦           sudoku_198_jpg.rf.df026715aa971d5837385b4e5c1a33fb.txt
+        ¦           sudoku_199_jpg.rf.685cd6ec5122ae8f80815334eb855989.txt
+        ¦           sudoku_199_jpg.rf.8c960204dfbb96ca0ff3e8fad80fca84.txt
+        ¦           sudoku_19_jpg.rf.09dac6d6ab3705c50cae0534ce99f797.txt
+        ¦           sudoku_19_jpg.rf.70a55248c968ddd9c4585e25fac536b2.txt
+        ¦           sudoku_19_jpg.rf.968d96281f01935056ad029717af6e23.txt
+        ¦           sudoku_1_jpg.rf.1a5cb192a9819d7cf7afa30a59549354.txt
+        ¦           sudoku_1_jpg.rf.233fb74f8c0216d2fca129b14e97b8d4.txt
+        ¦           sudoku_1_jpg.rf.de223dabfb60e717e33b985143b9270c.txt
+        ¦           sudoku_202_jpg.rf.3757542dd0488662a9bb1f66126f7857.txt
+        ¦           sudoku_202_jpg.rf.60b24a41e41f4f64a8a50deacdf858dc.txt
+        ¦           sudoku_202_jpg.rf.b1c91eb06c0c92aef83ef9db2ad10c0c.txt
+        ¦           sudoku_204_jpg.rf.4c552463eadea7c1afdaeee53fa21bcc.txt
+        ¦           sudoku_204_jpg.rf.b3fb8545672210aa4174edd8c64eaf70.txt
+        ¦           sudoku_204_jpg.rf.bd3c8a72256b408b4fecb7dbcf37b087.txt
+        ¦           sudoku_22_jpg.rf.2e65290bb7b2c310a11fe7f13a14cbf2.txt
+        ¦           sudoku_22_jpg.rf.615753d8cb073fbbdfb8c31c630cb39d.txt
+        ¦           sudoku_22_jpg.rf.c672d1006d2d26f45039043f2750dc0f.txt
+        ¦           sudoku_23_jpg.rf.1ab8f17ba3cd822c4f883278b3238ca2.txt
+        ¦           sudoku_23_jpg.rf.c512564932cf06371ba132c85ad7257d.txt
+        ¦           sudoku_23_jpg.rf.c57e961dbb2aa18e335b8de176b5c2e7.txt
+        ¦           sudoku_24_jpg.rf.1e68c9dd51dd0b03771332ca01592fcd.txt
+        ¦           sudoku_24_jpg.rf.75e2a65381a7a1320c70d42b341ba309.txt
+        ¦           sudoku_24_jpg.rf.a92ad59306318e36a35d7480b925a85d.txt
+        ¦           sudoku_26_jpg.rf.56481381b76987516de1da17cae982d1.txt
+        ¦           sudoku_26_jpg.rf.7c2ca5db3f2512a582761ac0eac33738.txt
+        ¦           sudoku_26_jpg.rf.daa33209954d06004dc8783de44c862b.txt
+        ¦           sudoku_27_jpg.rf.55f76530252bdb0f06d8b0bd904c26b1.txt
+        ¦           sudoku_27_jpg.rf.7b5385f5811e98bbbcca59061b7e4bec.txt
+        ¦           sudoku_27_jpg.rf.a7e015a32304746b2bdc42192f7fd941.txt
+        ¦           sudoku_28_jpg.rf.17b17cd39690b3239b71301937a4cbd0.txt
+        ¦           sudoku_28_jpg.rf.74b6615f45c35cd88b232a5fc1ab17ea.txt
+        ¦           sudoku_28_jpg.rf.fc93ab6a37c0920dff65f84f403c20c2.txt
+        ¦           sudoku_2_jpg.rf.281c65a8f1792433687ee0d766c42944.txt
+        ¦           sudoku_2_jpg.rf.6f7e46b0ad3024db9af8f905af9ba81e.txt
+        ¦           sudoku_2_jpg.rf.7167623a5030c61409958c3979a987f0.txt
+        ¦           sudoku_30_jpg.rf.42ee070fcdeb49a5360da4dfe1453247.txt
+        ¦           sudoku_30_jpg.rf.7e458536c5186e02e7a86c746b5823ac.txt
+        ¦           sudoku_30_jpg.rf.ed3c7d06bd6eb4ec9779547ff594fe6f.txt
+        ¦           sudoku_3235_jpg.rf.36e9b66a334e88c60e8e3bf5159dedca.txt
+        ¦           sudoku_3235_jpg.rf.85325b88533bf12f1189cf037298babb.txt
+        ¦           sudoku_3235_jpg.rf.85b2a990cf5951c4b2fad304136eee9c.txt
+        ¦           sudoku_3236_jpg.rf.2f621447e9f5ade85fee23bbaa9cf5bb.txt
+        ¦           sudoku_3236_jpg.rf.48f0a657fad8fc6daa62269e2a4208d9.txt
+        ¦           sudoku_3236_jpg.rf.e820eb30bb138aad082ca2db4500b174.txt
+        ¦           sudoku_3241_jpg.rf.22addd8fae9b0e181bc8a2960f7b4dca.txt
+        ¦           sudoku_3241_jpg.rf.315b6b0456eecba95b053a0a2a4715f4.txt
+        ¦           sudoku_3241_jpg.rf.e5f823fe60e9eed44a67d13049b69fd0.txt
+        ¦           sudoku_3246_jpg.rf.05ce4b4586b4c9cdac80422b4a20876c.txt
+        ¦           sudoku_3246_jpg.rf.2de83092700882784cd92b379969ed5a.txt
+        ¦           sudoku_3246_jpg.rf.f8a2eb6819d8eaa0863d199cd7a05ee5.txt
+        ¦           sudoku_3249_jpg.rf.589169d705b24e8227b5dfc792efca66.txt
+        ¦           sudoku_3249_jpg.rf.c0a2b0015af589f6539de43216255461.txt
+        ¦           sudoku_3249_jpg.rf.c9cd573d84ff85cce8af5aa0bd690a84.txt
+        ¦           sudoku_3253_jpg.rf.7d8b9cc4cf8fddb277695315f8db5188.txt
+        ¦           sudoku_3253_jpg.rf.ad7f3a94e2c95b780cd9622cb468b29f.txt
+        ¦           sudoku_3253_jpg.rf.ba54ad51ea277cae8806b4330c11848e.txt
+        ¦           sudoku_3254_jpg.rf.304dc70be9154a89673d570c9ff559c4.txt
+        ¦           sudoku_3254_jpg.rf.6d986813ab42c766dad620d02bbe1b3f.txt
+        ¦           sudoku_3254_jpg.rf.c2a504ce396090ec5cb7b785b27a0344.txt
+        ¦           sudoku_3255_jpg.rf.7a1cd496b9b109f03bd697fe4c99be91.txt
+        ¦           sudoku_3255_jpg.rf.d85976344db5b6311f0472ad2673515f.txt
+        ¦           sudoku_3255_jpg.rf.df8e433c4b6d227e87daddf4de33a184.txt
+        ¦           sudoku_3261_jpg.rf.07d97c5ea368775c456d541ce257ac51.txt
+        ¦           sudoku_3261_jpg.rf.1a366912b3e5871e9cac287f4d3b3b72.txt
+        ¦           sudoku_3261_jpg.rf.e6cc6767180bdfe01b5300b4742a46b3.txt
+        ¦           sudoku_3264_jpg.rf.22cc9eeaa9c17be0cf858b092025a65d.txt
+        ¦           sudoku_3264_jpg.rf.446da260fc96f7d6cc77c717f2d9c354.txt
+        ¦           sudoku_3264_jpg.rf.641dc80b4ee410d3839afc92828d99ea.txt
+        ¦           sudoku_3265_jpg.rf.5eee9f36753ff4ac6fb3eee231fe1984.txt
+        ¦           sudoku_3265_jpg.rf.8d00175c839519a181474befbfa2f8c9.txt
+        ¦           sudoku_3265_jpg.rf.9b532f40d28d1ef6e05bd29dec479bd7.txt
+        ¦           sudoku_3266_jpg.rf.2e40b56234af9b2ac1e3340b32d19280.txt
+        ¦           sudoku_3266_jpg.rf.4d492755892b4faf83c3761fd3670a5d.txt
+        ¦           sudoku_3266_jpg.rf.8809cb99e849bd76dbda40e2bbbb3865.txt
+        ¦           sudoku_3267_jpg.rf.95878ee451538962c1432720c580280c.txt
+        ¦           sudoku_3267_jpg.rf.b7b084cb0f9ac40855729ec2baca52c4.txt
+        ¦           sudoku_3267_jpg.rf.e6840c7c0ee763ec16521b924c577c21.txt
+        ¦           sudoku_3275_jpg.rf.0651214faacfbd55c63362a68f181123.txt
+        ¦           sudoku_3275_jpg.rf.8100687d7245ee2e2cfd3c8a99b93d06.txt
+        ¦           sudoku_3275_jpg.rf.cb7522fb2706cb5a2a7eb5f51b66b4b0.txt
+        ¦           sudoku_3276_jpg.rf.1b76793def103506b9e530681cbf5b45.txt
+        ¦           sudoku_3276_jpg.rf.2c8a91e7ab99a3354b3e717bf32bf515.txt
+        ¦           sudoku_3276_jpg.rf.5b45d61565f0d0817f2b238939d2495b.txt
+        ¦           sudoku_3277_jpg.rf.06446c52805e70a000a9bb6f574a2a2b.txt
+        ¦           sudoku_3277_jpg.rf.3f96e7b6071da30cf879bc145f15594a.txt
+        ¦           sudoku_3277_jpg.rf.ee86222cd7f6848c6bafd2741a7358dc.txt
+        ¦           sudoku_3278_jpg.rf.0b6616f1d7b53e1f5711f3e0a9737540.txt
+        ¦           sudoku_3278_jpg.rf.d480275ea02c738b66d777fab41d1d59.txt
+        ¦           sudoku_3278_jpg.rf.d74e00c102c98d7d565e42e6f842a066.txt
+        ¦           sudoku_3281_jpg.rf.2ac848879076e6cd303f382c245bcdb6.txt
+        ¦           sudoku_3281_jpg.rf.ccd72ca0a217f58249832abf1515c890.txt
+        ¦           sudoku_3281_jpg.rf.f043c9b33a36bfb646a950f9a299f33b.txt
+        ¦           sudoku_3282_jpg.rf.865d04a45a95904583b2122bb8d8370e.txt
+        ¦           sudoku_3282_jpg.rf.b46a19fe08f61649909b66238b071be0.txt
+        ¦           sudoku_3282_jpg.rf.e4ebbe9d4e752d3ff66c372ef980f50c.txt
+        ¦           sudoku_3283_jpg.rf.140d81117e3364510bcae4ac8c2721f6.txt
+        ¦           sudoku_3283_jpg.rf.9b62d1e77efc8d65d3f73e562639bfa9.txt
+        ¦           sudoku_3283_jpg.rf.9f0bd0a15b96b94c74083d5a1466b4f3.txt
+        ¦           sudoku_3284_jpg.rf.1da9aa5c07ed627e0baadfc7083fe9b6.txt
+        ¦           sudoku_3284_jpg.rf.2bd9acfa9e66c596354f50eb02416c1c.txt
+        ¦           sudoku_3284_jpg.rf.a7d045752ee75131bc68c35cdf17dc03.txt
+        ¦           sudoku_3285_jpg.rf.0b248ebd097bfcfe074ed897ebfdc182.txt
+        ¦           sudoku_3285_jpg.rf.65f285956ef8a5b6f1c28d338c1fa1e6.txt
+        ¦           sudoku_3285_jpg.rf.6f5229e35a08c86c24e5090a810d649c.txt
+        ¦           sudoku_3286_jpg.rf.129d7965adb5a038c91b6699993a7cc6.txt
+        ¦           sudoku_3286_jpg.rf.dd655f51af93e9480bae60408ed0153c.txt
+        ¦           sudoku_3286_jpg.rf.fe91fa77baffec6e8824b9e704fa064e.txt
+        ¦           sudoku_3291_jpg.rf.1115aec3b5197aed8b1d389f1d990846.txt
+        ¦           sudoku_3291_jpg.rf.18bcf40b53018aecaed3662520785776.txt
+        ¦           sudoku_3291_jpg.rf.f2e7c22c9e78d3ab92eca9bb42d30b72.txt
+        ¦           sudoku_3292_jpg.rf.4e3ba071cd4c5c7f061b3e8be2b08469.txt
+        ¦           sudoku_3292_jpg.rf.92e524e6c03a5b8c29015e1374ff561c.txt
+        ¦           sudoku_3292_jpg.rf.b5267f68e374d55e16f67d1be136c517.txt
+        ¦           sudoku_3293_jpg.rf.222ef605fa92be6d5dcfd6af88ad55b0.txt
+        ¦           sudoku_3293_jpg.rf.a5f5e8a7886b70da56a0efd59a6e8073.txt
+        ¦           sudoku_3293_jpg.rf.f2a7b152d88abc58bce68dd36668c3a0.txt
+        ¦           sudoku_3294_jpg.rf.37d741a48a2fcef5edb5f0c0e157c25a.txt
+        ¦           sudoku_3294_jpg.rf.4025ea8b1bf8cefe904bdfefcdd61330.txt
+        ¦           sudoku_3294_jpg.rf.d3cdd6bc20d895faeb6c7db8b43bf4b4.txt
+        ¦           sudoku_3295_jpg.rf.0df07a2a6caf2ea69e8bd408ca4201a4.txt
+        ¦           sudoku_3295_jpg.rf.ab2183fa29a3f12856003c7eaa774ff4.txt
+        ¦           sudoku_3295_jpg.rf.dc423a719d673a439a89de84837784a2.txt
+        ¦           sudoku_3297_jpg.rf.09547e92197210735d3ddd5069c2becf.txt
+        ¦           sudoku_3297_jpg.rf.9fdabfcb78f545a7dafb4c7a77f51ebc.txt
+        ¦           sudoku_3297_jpg.rf.c3ca216a76aa6f46055f2e0032c7be3d.txt
+        ¦           sudoku_3298_jpg.rf.ad93f1a9424e740eeed62dd0066dd1ad.txt
+        ¦           sudoku_3298_jpg.rf.d6b58d05a2a802dbb575843f2e8e7e9a.txt
+        ¦           sudoku_3298_jpg.rf.f2f61fc052d4ef98314c3fc4904499f5.txt
+        ¦           sudoku_3299_jpg.rf.84cb57061212558c9402c1518678320f.txt
+        ¦           sudoku_3299_jpg.rf.978cf5b1540dcd56420338bd6aee0309.txt
+        ¦           sudoku_3299_jpg.rf.ab0a3feb957d4c63bff0d341eac6f505.txt
+        ¦           sudoku_3300_jpg.rf.7c6232178fd37130b30fa8a3d494895e.txt
+        ¦           sudoku_3300_jpg.rf.82b13388d62bf1fe71935ad82b97af65.txt
+        ¦           sudoku_3300_jpg.rf.b43fc44966b61e0812baba9aea94faf3.txt
+        ¦           sudoku_3302_jpg.rf.407b1947e8f3516537d525c73a220d05.txt
+        ¦           sudoku_3302_jpg.rf.8dd12c924cc7cb53809f4218e7b66864.txt
+        ¦           sudoku_3302_jpg.rf.8eab38de77d429444056eeef83b37822.txt
+        ¦           sudoku_3303_jpg.rf.5a59a5f07548796b8a20aa44ecef0ff8.txt
+        ¦           sudoku_3303_jpg.rf.97233b55143e8105a0be3155de6fc1d3.txt
+        ¦           sudoku_3303_jpg.rf.a1c75ec29a269de43ffa1c31076ade5d.txt
+        ¦           sudoku_3304_jpg.rf.4ee19d8005766764859702c5151d9aba.txt
+        ¦           sudoku_3304_jpg.rf.615fd5037f0f01708a0aa5ca5f0e15e1.txt
+        ¦           sudoku_3304_jpg.rf.bbbaabc47e70047271029afa9b967e08.txt
+        ¦           sudoku_3308_jpg.rf.132fe8661640560266ba9006b603e3a4.txt
+        ¦           sudoku_3308_jpg.rf.97cef86def584a8cbc55d1f3ce017d86.txt
+        ¦           sudoku_3308_jpg.rf.d86a5b14af7187524923e03003502fd6.txt
+        ¦           sudoku_3311_jpg.rf.6f440d748bed0ea67834907fb64533e3.txt
+        ¦           sudoku_3311_jpg.rf.bee925b0049808f5861561edb38b7661.txt
+        ¦           sudoku_3311_jpg.rf.cbd4995527b16ec675f4f963d6aaa980.txt
+        ¦           sudoku_3312_jpg.rf.284328bb8cbdd993af2d7e993fb1e847.txt
+        ¦           sudoku_3312_jpg.rf.7068b1a4edf8184ded574573f2e4f6d0.txt
+        ¦           sudoku_3312_jpg.rf.d578970192b0eac5a3c9037f770ae63c.txt
+        ¦           sudoku_3313_jpg.rf.342080088919efd05e3ae34868691f9e.txt
+        ¦           sudoku_3313_jpg.rf.b03153b32467add6932e39fb6f47ea26.txt
+        ¦           sudoku_3313_jpg.rf.d10a906f33f756be35bb914c6f845a45.txt
+        ¦           sudoku_36_jpg.rf.36177b66d2694e0d9b09bda9ba299b39.txt
+        ¦           sudoku_36_jpg.rf.8ca8eaab5511e6219737af0c3fb15ca0.txt
+        ¦           sudoku_36_jpg.rf.c250d50266b6c8ef6ea2286a9d329ff4.txt
+        ¦           sudoku_37_jpg.rf.754a38dcde12c8ad864bed0f67d1df20.txt
+        ¦           sudoku_37_jpg.rf.d1e72bc42eafb17e87cc7b5ec31bda66.txt
+        ¦           sudoku_37_jpg.rf.df9d0d666195230116f7a582e914d26a.txt
+        ¦           sudoku_40_jpg.rf.212f29a8f8fe6874c9a09a85bf327b28.txt
+        ¦           sudoku_40_jpg.rf.84ceba631e71eeef52031c4377e6ac50.txt
+        ¦           sudoku_40_jpg.rf.e6aaec528e143a6afa7997791dcfa77a.txt
+        ¦           sudoku_41_jpg.rf.534544b1f09bd3eb548c6bd0d210b390.txt
+        ¦           sudoku_41_jpg.rf.8b114e1858a6fe44c2c4dc8aab1abd8d.txt
+        ¦           sudoku_41_jpg.rf.d0d3c8195038ebb40a090db005e8abb0.txt
+        ¦           sudoku_44_jpg.rf.07b7a2c377467d86cdc3f8d62747ac54.txt
+        ¦           sudoku_44_jpg.rf.b9a66d64b86a9a7bbbc8f64ead7168fd.txt
+        ¦           sudoku_58_jpg.rf.20b50d85ebb6636f44102cc7e40dd5eb.txt
+        ¦           sudoku_58_jpg.rf.269b6b3bc4494678dfd3d877d1ca6d73.txt
+        ¦           sudoku_58_jpg.rf.5e170fb4ef95c597904836542dfb2d8d.txt
+        ¦           sudoku_61_jpg.rf.81b93caba5f8e25e2d85648944dc6e09.txt
+        ¦           sudoku_61_jpg.rf.cad09d4ce619e7ccc051511cee2cb12b.txt
+        ¦           sudoku_61_jpg.rf.e6764715e9036f9d5dfffd5ffebc700f.txt
+        ¦           sudoku_65_jpg.rf.068498ee2e7fc1d6f012408fbc3c5c4b.txt
+        ¦           sudoku_65_jpg.rf.746a17d094c85051c7e70e0ca3b5d78d.txt
+        ¦           sudoku_65_jpg.rf.961597b606096757c82edaee07759fba.txt
+        ¦           sudoku_72_jpg.rf.09979e5dfc0530ae4aab0a5d817b8269.txt
+        ¦           sudoku_72_jpg.rf.8bb7eaed72c5ab377eec9b89d3ee61f8.txt
+        ¦           sudoku_72_jpg.rf.ac982dcffdeaafb082e60f1757904baf.txt
+        ¦           sudoku_74_jpg.rf.8427f8eb0bac77b5c3c4b6f5cbe8ba0f.txt
+        ¦           sudoku_74_jpg.rf.dc315a4add8ba396a3faf8f277ef5d99.txt
+        ¦           sudoku_74_jpg.rf.e292c2f139a92759e77de7cb9b2f87fe.txt
+        ¦           sudoku_77_jpg.rf.081776830bda96c6c4ec380fa613685f.txt
+        ¦           sudoku_77_jpg.rf.a3888d2136f6d41ea20a49f46464a666.txt
+        ¦           sudoku_77_jpg.rf.dd511309e634170fdd1e43d6e6f7ae55.txt
+        ¦           sudoku_79_jpg.rf.3815d779e1e0e326e8ab2fef6cbd8665.txt
+        ¦           sudoku_79_jpg.rf.a047b3666846827faca37084a717355d.txt
+        ¦           sudoku_79_jpg.rf.f208f0198e333d290694f9737f4cc740.txt
+        ¦           sudoku_80_jpg.rf.8444045fb7e5ac58f637c63e8bbc64ba.txt
+        ¦           sudoku_80_jpg.rf.8fed16c49d25dfa9e76b6d8efec21500.txt
+        ¦           sudoku_80_jpg.rf.abb6e9bafde80006763d7dbd6c402a25.txt
+        ¦           sudoku_81_jpg.rf.0bfc97ca0e0f39b28fcf3579c86d370e.txt
+        ¦           sudoku_81_jpg.rf.25e472ee5fd10a57126377330e4a4e10.txt
+        ¦           sudoku_81_jpg.rf.8d43d2e13117a421776be98b5d4c98df.txt
+        ¦           sudoku_82_jpg.rf.c0141b1c80dbaba059bb1366ba98b96a.txt
+        ¦           sudoku_82_jpg.rf.d17c5624267c0ff4ac4e0fc9dac22714.txt
+        ¦           sudoku_82_jpg.rf.e5500b18d66d012c4725130528a65791.txt
+        ¦           sudoku_84_jpg.rf.3f2bc92973409e110838a97ae91ed8c5.txt
+        ¦           sudoku_84_jpg.rf.773bdb818fb5c57853393b3c86b73488.txt
+        ¦           sudoku_84_jpg.rf.9e76d7a28730e16767960bf9cb4a8e42.txt
+        ¦           sudoku_8_jpg.rf.121409863fd5da61047c5ed65ee0c8c9.txt
+        ¦           sudoku_8_jpg.rf.d8d71cde25f5bb73c1da6dd004b56c96.txt
+        ¦           sudoku_8_jpg.rf.ffcc21b3a6eb3c83d1641049f32c53b3.txt
+        ¦           sudoku_90_jpg.rf.50be2bd108c65fb059507171de1263eb.txt
+        ¦           sudoku_90_jpg.rf.53561f1e280be34a58266c53a52a4898.txt
+        ¦           sudoku_90_jpg.rf.d216eaeaee2bb20f3a658063435f0845.txt
+        ¦           sudoku_93_jpg.rf.34b05f6c2972983766eae984c0a16fe5.txt
+        ¦           sudoku_93_jpg.rf.36d1f7e4c6ee5f6ed7b38eaa775f2f86.txt
+        ¦           sudoku_93_jpg.rf.b3bab97f8cf2f3d3501fc775a58d4880.txt
+        ¦           sudoku_94_jpg.rf.09a70101a11a54f53f9ef280ab0445f5.txt
+        ¦           sudoku_94_jpg.rf.d1a91c008b9c6572da85b2764d69215f.txt
+        ¦           sudoku_94_jpg.rf.df5cb2ad2161a2fdc734b7c719d1a08f.txt
+        ¦           sudoku_95_jpg.rf.4abc02a19a5d21ebd274500e1dad0e0c.txt
+        ¦           sudoku_95_jpg.rf.546ddd30cc68707b275d0469ffe201d5.txt
+        ¦           sudoku_95_jpg.rf.fd4e1b82c96639c8e47a71c7ff7eccdd.txt
+        ¦           sudoku_96_jpg.rf.26eeca664c9253d1555f7509fb42ccf3.txt
+        ¦           sudoku_96_jpg.rf.49fe28074e2845498aae44fffe11eced.txt
+        ¦           sudoku_96_jpg.rf.aa749b7ce36a0520aa3164fe8e3ed831.txt
+        ¦           sudoku_97_jpg.rf.28b4e8224799271cbb48ac372c90866c.txt
+        ¦           sudoku_97_jpg.rf.2f414ef5faa77567bfd4733b9a6457c5.txt
+        ¦           sudoku_97_jpg.rf.bf11fda07bd0ba1430d2bedadd07e940.txt
+        ¦           sudoku_98_jpg.rf.0b527c5776a1cf953bf02b8361b52a2b.txt
+        ¦           sudoku_98_jpg.rf.1885ad52a4134f7925b490a06daed626.txt
+        ¦           sudoku_98_jpg.rf.c59663518f1a4fb5207dc83512ca5757.txt
+        ¦           sudoku_99_jpg.rf.0a189771787596995293013cec69aeaf.txt
+        ¦           sudoku_99_jpg.rf.af4c0cc9893ebd21ffee551f2c1a559d.txt
+        ¦           sudoku_99_jpg.rf.b305dd21bf05a8e04a742c6ab0b1a6fb.txt
+        ¦           sudoku_9_jpg.rf.68f3f057f7cc32a209499c135f15f20e.txt
+        ¦           sudoku_9_jpg.rf.98fc201d2696f07c1be41fee89e9cd69.txt
+        ¦           sudoku_9_jpg.rf.be34ca4ba1e2fbee0780f5c70afc39ec.txt
+        ¦           
+        +---valid
+            +---images
+            ¦       sudoku_1004_jpg.rf.6597005967270aa494785b989f9998f2.jpg
+            ¦       sudoku_1007_jpg.rf.db626d07df3e0ba62a1581cf87388911.jpg
+            ¦       sudoku_1014_jpg.rf.7c760189ad0bdb1e4d5b7b49b284154f.jpg
+            ¦       sudoku_1031_jpg.rf.2b7466a741deb8dc0204c12a84e3a3ac.jpg
+            ¦       sudoku_104_jpg.rf.d4db9ae17fdafa83c321569dbddf068f.jpg
+            ¦       sudoku_1055_jpg.rf.95caafafcfb9784bf61e54ada8a66cd2.jpg
+            ¦       sudoku_1059_jpg.rf.aa1bda7123ddcd45b576b15c4ddc9f87.jpg
+            ¦       sudoku_106_jpg.rf.62fbf2cee4c524756c88f6afe642764b.jpg
+            ¦       sudoku_1075_jpg.rf.7384f3b189d0a9ddf7024629077fd9fa.jpg
+            ¦       sudoku_1077_jpg.rf.751f375fdcbb9f01d95f49556021c52f.jpg
+            ¦       sudoku_109_jpg.rf.8072c5a8f070c1402cad918f059347fe.jpg
+            ¦       sudoku_10_jpg.rf.d18322bf961a2d457f5958e447932ef7.jpg
+            ¦       sudoku_111_jpg.rf.d03110dc9f2bad7daa6f8a9b78dbb11d.jpg
+            ¦       sudoku_125_jpg.rf.8b0e61fdb55704462aa0ff05f85e9fa1.jpg
+            ¦       sudoku_128_jpg.rf.066dde04ce49b92f3f0330488df68b20.jpg
+            ¦       sudoku_151_jpg.rf.a9ed62b79f4292219b7c594b08d5b41d.jpg
+            ¦       sudoku_171_jpg.rf.148e725e3da17b8e11717f5420049eae.jpg
+            ¦       sudoku_180_jpg.rf.7f3941d773297ffda78daced50930605.jpg
+            ¦       sudoku_181_jpg.rf.359003e541f021b46660977d7eb23169.jpg
+            ¦       sudoku_182_jpg.rf.178e25fe5fb0ed52830687544af393a6.jpg
+            ¦       sudoku_191_jpg.rf.7b6eb4a884ecc155e685f686c4b21a7f.jpg
+            ¦       sudoku_192_jpg.rf.6ebccf10026a6a73bd52b4e7e0f3a527.jpg
+            ¦       sudoku_201_jpg.rf.339f4c6faac8cc4204a167c1cbbd1cb9.jpg
+            ¦       sudoku_203_jpg.rf.d67ce9cbfb562f5c39ac85e569a0e2a4.jpg
+            ¦       sudoku_206_jpg.rf.bd93b37c3905ccf65af340fa5fc3a2f9.jpg
+            ¦       sudoku_209_jpg.rf.990bf5768b308a1baabbe4bc2b701d4d.jpg
+            ¦       sudoku_21_jpg.rf.07c8d2e9a966aeaa2c2027d7619dcb83.jpg
+            ¦       sudoku_29_jpg.rf.9f811ca3d06f97170b13740fc05606f7.jpg
+            ¦       sudoku_3230_jpg.rf.2cea782a86df6b585dc1709313a8c2e2.jpg
+            ¦       sudoku_3231_jpg.rf.301394cc54db12a039dea32f9e22186c.jpg
+            ¦       sudoku_3239_jpg.rf.e27584c129a77e2f3773936f58d676e3.jpg
+            ¦       sudoku_3268_jpg.rf.7d705e43c62be9228b13233ae71ed3d6.jpg
+            ¦       sudoku_3274_jpg.rf.ee193f5142acc138318978d2da3eab24.jpg
+            ¦       sudoku_3280_jpg.rf.0229802359cfef433d2ff0e549492b80.jpg
+            ¦       sudoku_3289_jpg.rf.57268bf6ad1c4ec420da9ee5a72a27ca.jpg
+            ¦       sudoku_3290_jpg.rf.20636d567b692b305f6e4b52ae9eebc2.jpg
+            ¦       sudoku_3296_jpg.rf.38b44aa98ab0752dc8024ac174269429.jpg
+            ¦       sudoku_3309_jpg.rf.b9e123dad40e28aed652c35e9812ac10.jpg
+            ¦       sudoku_3310_jpg.rf.0d4947b8a6fdd5407dafdd0235210182.jpg
+            ¦       sudoku_33_jpg.rf.dd636f771ca5d6d8b9e23d44749df2d1.jpg
+            ¦       sudoku_42_jpg.rf.50709058115bed3d0f50849f9e95c6c1.jpg
+            ¦       sudoku_56_jpg.rf.d2bdcc972304520293b43e8ee5ccd8af.jpg
+            ¦       sudoku_71_jpg.rf.043497127434dfab981bffe0b5e9b5d0.jpg
+            ¦       
+            +---labels
+                    sudoku_1004_jpg.rf.6597005967270aa494785b989f9998f2.txt
+                    sudoku_1007_jpg.rf.db626d07df3e0ba62a1581cf87388911.txt
+                    sudoku_1014_jpg.rf.7c760189ad0bdb1e4d5b7b49b284154f.txt
+                    sudoku_1031_jpg.rf.2b7466a741deb8dc0204c12a84e3a3ac.txt
+                    sudoku_104_jpg.rf.d4db9ae17fdafa83c321569dbddf068f.txt
+                    sudoku_1055_jpg.rf.95caafafcfb9784bf61e54ada8a66cd2.txt
+                    sudoku_1059_jpg.rf.aa1bda7123ddcd45b576b15c4ddc9f87.txt
+                    sudoku_106_jpg.rf.62fbf2cee4c524756c88f6afe642764b.txt
+                    sudoku_1075_jpg.rf.7384f3b189d0a9ddf7024629077fd9fa.txt
+                    sudoku_1077_jpg.rf.751f375fdcbb9f01d95f49556021c52f.txt
+                    sudoku_109_jpg.rf.8072c5a8f070c1402cad918f059347fe.txt
+                    sudoku_10_jpg.rf.d18322bf961a2d457f5958e447932ef7.txt
+                    sudoku_111_jpg.rf.d03110dc9f2bad7daa6f8a9b78dbb11d.txt
+                    sudoku_125_jpg.rf.8b0e61fdb55704462aa0ff05f85e9fa1.txt
+                    sudoku_128_jpg.rf.066dde04ce49b92f3f0330488df68b20.txt
+                    sudoku_151_jpg.rf.a9ed62b79f4292219b7c594b08d5b41d.txt
+                    sudoku_171_jpg.rf.148e725e3da17b8e11717f5420049eae.txt
+                    sudoku_180_jpg.rf.7f3941d773297ffda78daced50930605.txt
+                    sudoku_181_jpg.rf.359003e541f021b46660977d7eb23169.txt
+                    sudoku_182_jpg.rf.178e25fe5fb0ed52830687544af393a6.txt
+                    sudoku_191_jpg.rf.7b6eb4a884ecc155e685f686c4b21a7f.txt
+                    sudoku_192_jpg.rf.6ebccf10026a6a73bd52b4e7e0f3a527.txt
+                    sudoku_201_jpg.rf.339f4c6faac8cc4204a167c1cbbd1cb9.txt
+                    sudoku_203_jpg.rf.d67ce9cbfb562f5c39ac85e569a0e2a4.txt
+                    sudoku_206_jpg.rf.bd93b37c3905ccf65af340fa5fc3a2f9.txt
+                    sudoku_209_jpg.rf.990bf5768b308a1baabbe4bc2b701d4d.txt
+                    sudoku_21_jpg.rf.07c8d2e9a966aeaa2c2027d7619dcb83.txt
+                    sudoku_29_jpg.rf.9f811ca3d06f97170b13740fc05606f7.txt
+                    sudoku_3230_jpg.rf.2cea782a86df6b585dc1709313a8c2e2.txt
+                    sudoku_3231_jpg.rf.301394cc54db12a039dea32f9e22186c.txt
+                    sudoku_3239_jpg.rf.e27584c129a77e2f3773936f58d676e3.txt
+                    sudoku_3268_jpg.rf.7d705e43c62be9228b13233ae71ed3d6.txt
+                    sudoku_3274_jpg.rf.ee193f5142acc138318978d2da3eab24.txt
+                    sudoku_3280_jpg.rf.0229802359cfef433d2ff0e549492b80.txt
+                    sudoku_3289_jpg.rf.57268bf6ad1c4ec420da9ee5a72a27ca.txt
+                    sudoku_3290_jpg.rf.20636d567b692b305f6e4b52ae9eebc2.txt
+                    sudoku_3296_jpg.rf.38b44aa98ab0752dc8024ac174269429.txt
+                    sudoku_3309_jpg.rf.b9e123dad40e28aed652c35e9812ac10.txt
+                    sudoku_3310_jpg.rf.0d4947b8a6fdd5407dafdd0235210182.txt
+                    sudoku_33_jpg.rf.dd636f771ca5d6d8b9e23d44749df2d1.txt
+                    sudoku_42_jpg.rf.50709058115bed3d0f50849f9e95c6c1.txt
+                    sudoku_56_jpg.rf.d2bdcc972304520293b43e8ee5ccd8af.txt
+                    sudoku_71_jpg.rf.043497127434dfab981bffe0b5e9b5d0.txt
+                    

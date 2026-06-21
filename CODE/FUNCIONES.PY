@@ -74,3 +74,57 @@ def resolver_sudoku(tablero):
 
     # Si probamos del 1 al 9 y ninguno funciona, este camino es un callejón sin salida
     return False
+
+
+def corregir_con_reglas_sudoku(matriz, confianzas):
+    """
+    Usa las reglas del Sudoku para detectar conflictos (duplicados en fila, columna o caja)
+    y corrige el dígito con MENOR confianza, reemplazándolo por 0 (vacío).
+
+    Parámetros:
+        matriz:      np.array 9x9 con los dígitos detectados (0 = vacío)
+        confianzas:  np.array 9x9 con la confianza (logit máximo) de cada predicción
+    
+    Devuelve:
+        correcciones: lista de strings describiendo cada corrección aplicada
+    """
+    correcciones = []
+    
+    def _resolver_conflicto(celdas_con_numero, numero, zona_nombre):
+        """Si hay duplicados de 'numero' en una zona, borra el de menor confianza."""
+        if len(celdas_con_numero) <= 1:
+            return
+        # Encontrar la celda con MENOR confianza
+        peor = min(celdas_con_numero, key=lambda pos: confianzas[pos[0], pos[1]])
+        f, c = peor
+        conf = confianzas[f, c]
+        matriz[f, c] = 0  # Marcar como vacío
+        correcciones.append(
+            f"Conflicto en {zona_nombre}: dos '{numero}' -> "
+            f"Casilla ({f},{c}) borrada (confianza {conf:.2f})"
+        )
+    
+    # 1. Comprobar FILAS
+    for fila in range(9):
+        for num in range(1, 10):
+            posiciones = [(fila, c) for c in range(9) if matriz[fila, c] == num]
+            _resolver_conflicto(posiciones, num, f"Fila {fila}")
+    
+    # 2. Comprobar COLUMNAS
+    for col in range(9):
+        for num in range(1, 10):
+            posiciones = [(f, col) for f in range(9) if matriz[f, col] == num]
+            _resolver_conflicto(posiciones, num, f"Columna {col}")
+    
+    # 3. Comprobar CAJAS 3x3
+    for bf in range(3):
+        for bc in range(3):
+            for num in range(1, 10):
+                posiciones = []
+                for f in range(bf * 3, bf * 3 + 3):
+                    for c in range(bc * 3, bc * 3 + 3):
+                        if matriz[f, c] == num:
+                            posiciones.append((f, c))
+                _resolver_conflicto(posiciones, num, f"Caja ({bf},{bc})")
+    
+    return correcciones
